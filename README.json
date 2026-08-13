@@ -1,0 +1,5843 @@
+{
+  "items": [
+    {
+      "description": "",
+      "items": [],
+      "title": "Recon"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Amass",
+          "description": "In-depth Attack Surface Mapping and Asset Discovery",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-07-19T05:16:40Z",
+            "owner": "owasp-amass",
+            "repo": "amass",
+            "stars": 14976
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "subfinder",
+          "description": "Subfinder is a subdomain discovery tool that discovers valid subdomains for websites.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-08-12T14:22:49Z",
+            "owner": "projectdiscovery",
+            "repo": "subfinder",
+            "stars": 14188
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Sublist3r",
+          "description": "Fast subdomains enumeration tool for penetration testers",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-08-02T00:00:30Z",
+            "owner": "aboul3la",
+            "repo": "Sublist3r",
+            "stars": 11019
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "bbot",
+          "description": "A recursive internet scanner for hackers",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-13T04:30:45Z",
+            "owner": "blacklanternsecurity",
+            "repo": "bbot",
+            "stars": 10348
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "knock",
+          "description": "Knockpy is a python tool designed to enumerate subdomains on a target domain through a wordlist.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-02-19T11:17:32Z",
+            "owner": "guelfoweb",
+            "repo": "knockpy",
+            "stars": 4178
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Findomain",
+          "description": "The fastest and cross-platform subdomain enumerator, do not waste your time.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-07-28T13:06:33Z",
+            "owner": "Findomain",
+            "repo": "Findomain",
+            "stars": 3783
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "assetfinder",
+          "description": "Find domains and subdomains related to a given domain",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2024-06-07T17:08:47Z",
+            "owner": "tomnomnom",
+            "repo": "assetfinder",
+            "stars": 3661
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "massdns",
+          "description": "A high-performance DNS stub resolver for bulk lookups and reconnaissance (subdomain enumeration)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2026-04-15T21:16:50Z",
+            "owner": "blechschmidt",
+            "repo": "massdns",
+            "stars": 3628
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "dnsx",
+          "description": "Dnsx is a fast and multi-purpose DNS toolkit allow to run multiple DNS queries of your choice with a list of user-supplied resolvers.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-08-10T02:44:20Z",
+            "owner": "projectdiscovery",
+            "repo": "dnsx",
+            "stars": 2834
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "altdns",
+          "description": "Generates permutations, alterations and mutations of subdomains and then resolves them",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-01-09T04:24:27Z",
+            "owner": "infosec-au",
+            "repo": "altdns",
+            "stars": 2504
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Sudomy",
+          "description": "Sudomy is a subdomain enumeration tool to collect subdomains and analyzing domains performing automated reconnaissance (recon) for bug hunting / pentesting",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Shell",
+            "last_commit": "2024-06-27T10:07:42Z",
+            "owner": "screetsec",
+            "repo": "Sudomy",
+            "stars": 2422
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "puredns",
+          "description": "Fast domain resolver and subdomain bruteforcing with accurate wildcard filtering with wildcard(*)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-02-23T16:29:40Z",
+            "owner": "d3mondev",
+            "repo": "puredns",
+            "stars": 2224
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "shuffledns",
+          "description": "shuffleDNS is a wrapper around massdns written in go that allows you to enumerate valid subdomains using active bruteforce as well as resolve subdomains with wildcard handling and easy input-output…",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-08-10T19:25:48Z",
+            "owner": "projectdiscovery",
+            "repo": "shuffledns",
+            "stars": 1658
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "hakrevdns",
+          "description": "Small, fast tool for performing reverse DNS lookups en masse.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-08-05T04:05:41Z",
+            "owner": "hakluke",
+            "repo": "hakrevdns",
+            "stars": 1570
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "VHostScan",
+          "description": "A virtual host scanner that performs reverse lookups",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-08-18T07:42:58Z",
+            "owner": "codingo",
+            "repo": "VHostScan",
+            "stars": 1310
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "dnscan",
+          "description": "dnscan is a python wordlist-based DNS subdomain scanner.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-12-17T15:29:50Z",
+            "owner": "rbsec",
+            "repo": "dnscan",
+            "stars": 1274
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "scilla",
+          "description": "Information Gathering tool - DNS / Subdomains / Ports / Directories enumeration",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-07-10T08:40:13Z",
+            "owner": "edoardottt",
+            "repo": "scilla",
+            "stars": 1244
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "domain",
+          "description": "enumall.py Setup script for Regon-ng",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2020-11-17T18:19:45Z",
+            "owner": "jhaddix",
+            "repo": "domain",
+            "stars": 941
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "chaos-client",
+          "description": "Go client to communicate with Chaos DNS API.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-08-05T10:04:40Z",
+            "owner": "projectdiscovery",
+            "repo": "chaos-client",
+            "stars": 875
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "github-subdomains",
+          "description": "This Go tool performs searches on GitHub and parses the results to find subdomains of a given domain.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2023-03-28T15:47:06Z",
+            "owner": "gwen001",
+            "repo": "github-subdomains",
+            "stars": 865
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "censys-subdomain-finder",
+          "description": "Perform subdomain enumeration using the certificate transparency logs from Censys.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-05-01T09:19:31Z",
+            "owner": "christophetd",
+            "repo": "censys-subdomain-finder",
+            "stars": 842
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "subdominator",
+          "description": "Fast and powerfull to enumerate subdomains (50+ passive results ).",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-06-21T08:36:12Z",
+            "owner": "RevoltSecurities",
+            "repo": "Subdominator",
+            "stars": 799
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "domained",
+          "description": "Multi Tool Subdomain Enumeration",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Python",
+            "last_commit": "2021-04-11T09:54:50Z",
+            "owner": "TypeError",
+            "repo": "domained",
+            "stars": 723
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "cero",
+          "description": "Scrape domain names from SSL certificates of arbitrary hosts",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2024-03-31T02:21:34Z",
+            "owner": "glebarez",
+            "repo": "cero",
+            "stars": 693
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "bugcrowd-levelup-subdomain-enumeration",
+          "description": "This repository contains all the material from the talk \"Esoteric sub-domain enumeration techniques\" given at Bugcrowd LevelUp 2017 virtual conference",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2019-02-05T07:34:59Z",
+            "owner": "appsecco",
+            "repo": "bugcrowd-levelup-subdomain-enumeration",
+            "stars": 633
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "haktrails",
+          "description": "Golang client for querying SecurityTrails API data",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-01-21T04:32:42Z",
+            "owner": "hakluke",
+            "repo": "haktrails",
+            "stars": 602
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "sub3suite",
+          "description": "A research-grade suite of tools for subdomain enumeration, intelligence gathering and attack surface mapping.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "C",
+            "last_commit": "2026-08-07T07:37:45Z",
+            "owner": "3nock",
+            "repo": "OTE",
+            "stars": 579
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "shosubgo",
+          "description": "Small tool to Grab subdomains using Shodan api",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2025-09-01T21:13:46Z",
+            "owner": "incogbyte",
+            "repo": "shosubgo",
+            "stars": 574
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "csprecon",
+          "description": "Discover new target domains using Content Security Policy",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-08-12T10:50:18Z",
+            "owner": "edoardottt",
+            "repo": "csprecon",
+            "stars": 523
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "hakip2host",
+          "description": "hakip2host takes a list of IP addresses via stdin, then does a series of checks to return associated domain names.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2022-04-27T00:46:55Z",
+            "owner": "hakluke",
+            "repo": "hakip2host",
+            "stars": 466
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Turbolist3r",
+          "description": "Subdomain enumeration tool with analysis features for discovered domains",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-11-16T01:58:39Z",
+            "owner": "fleetcaptain",
+            "repo": "Turbolist3r",
+            "stars": 398
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "brutesubs",
+          "description": "An automation framework for running multiple open sourced subdomain bruteforcing tools (in parallel) using your own wordlists via Docker Compose",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Shell",
+            "last_commit": "2021-08-22T19:19:32Z",
+            "owner": "anshumanbh",
+            "repo": "brutesubs",
+            "stars": 260
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "tugarecon",
+          "description": "Fast subdomains enumeration tool for penetration testers.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-03-24T11:28:38Z",
+            "owner": "skynet0x01",
+            "repo": "tugarecon",
+            "stars": 220
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "crtndstry",
+          "description": "Yet another subdomain finder",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Shell",
+            "last_commit": "2020-01-20T18:38:08Z",
+            "owner": "nahamsec",
+            "repo": "crtndstry",
+            "stars": 214
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "censys-enumeration",
+          "description": "A script to extract subdomains/emails for a given domain using SSL/TLS certificate dataset on Censys",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2022-12-07T23:44:52Z",
+            "owner": "0xbharath",
+            "repo": "censys-enumeration",
+            "stars": 156
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "dns-parallel-prober",
+          "description": "his is a parallelised domain name prober to find as many subdomains of a given domain as fast as possible.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2022-10-04T17:41:42Z",
+            "owner": "lorenzog",
+            "repo": "dns-parallel-prober",
+            "stars": 109
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "related-domains",
+          "description": "Find related domains of a given domain. this tool search for domains that have been registered by the same peoples/companies.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-06-05T07:56:12Z",
+            "owner": "gwen001",
+            "repo": "related-domains",
+            "stars": 107
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "gitlab-subdomains",
+          "description": "This Go tool performs searches on GitLab and parses the results to find subdomains of a given domain.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2024-04-28T05:43:26Z",
+            "owner": "gwen001",
+            "repo": "gitlab-subdomains",
+            "stars": 106
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Substr3am",
+          "description": "Passive reconnaissance/enumeration of interesting targets by watching for SSL certificates being issued",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2022-10-11T18:01:10Z",
+            "owner": "nexxai",
+            "repo": "Substr3am",
+            "stars": 68
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Subra",
+          "description": "A Web-UI for subdomain enumeration (subfinder)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "HTML",
+            "last_commit": "2020-06-05T07:23:54Z",
+            "owner": "si9int",
+            "repo": "Subra",
+            "stars": 55
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "crt.go",
+          "description": "This Go script simplifies the process of efficiently saving and analyzing subdomain output from the crt.sh website.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2024-04-23T18:18:49Z",
+            "owner": "TaurusOmar",
+            "repo": "crt.sh",
+            "stars": 12
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "as3nt",
+          "description": "Another Subdomain ENumeration Tool",
+          "children": []
+        }
+      ],
+      "title": "Subdomain Enumeration"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "masscan",
+          "description": "TCP port scanner, spews SYN packets asynchronously, scanning entire Internet in under 5 minutes.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2026-04-23T20:34:38Z",
+            "owner": "robertdavidgraham",
+            "repo": "masscan",
+            "stars": 25930
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "RustScan",
+          "description": "The Modern Port Scanner",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-07-29T09:03:06Z",
+            "owner": "bee-san",
+            "repo": "RustScan",
+            "stars": 20265
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "nmap",
+          "description": "Nmap - the Network Mapper. Github mirror of official SVN repository.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2026-08-12T19:30:06Z",
+            "owner": "nmap",
+            "repo": "nmap",
+            "stars": 13346
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "naabu",
+          "description": "A fast port scanner written in go with focus on reliability and simplicity.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-08-13T10:59:50Z",
+            "owner": "projectdiscovery",
+            "repo": "naabu",
+            "stars": 6177
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "sandmap",
+          "description": "Nmap on steroids. Simple CLI with the ability to run pure Nmap engine, 31 modules with 459 scan profiles.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Shell",
+            "last_commit": "2024-11-19T14:07:51Z",
+            "owner": "trimstray",
+            "repo": "sandmap",
+            "stars": 1861
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ScanCannon",
+          "description": "Combines the speed of masscan with the reliability and detailed enumeration of nmap",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Shell",
+            "last_commit": "2026-08-11T22:36:47Z",
+            "owner": "johnnyxmas",
+            "repo": "ScanCannon",
+            "stars": 478
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "NimScan",
+          "description": "Fast Port Scanner 🚀",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Nim",
+            "last_commit": "2022-02-10T13:23:02Z",
+            "owner": "elddy",
+            "repo": "NimScan",
+            "stars": 409
+          }
+        }
+      ],
+      "title": "Port Scanning"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "aquatone",
+          "description": "Aquatone is a tool for visual inspection of websites across a large amount of hosts and is convenient for quickly gaining an overview of HTTP-based attack surface.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Go",
+            "last_commit": "2022-05-22T19:49:32Z",
+            "owner": "michenriksen",
+            "repo": "aquatone",
+            "stars": 5961
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "EyeWitness",
+          "description": "EyeWitness is designed to take screenshots of websites, provide some server header info, and identify default credentials if possible.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-01-05T17:58:49Z",
+            "owner": "RedSiege",
+            "repo": "EyeWitness",
+            "stars": 5818
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Depix",
+          "description": "Recovers passwords from pixelized screenshots",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Python",
+            "last_commit": "2026-04-14T14:10:25Z",
+            "owner": "spipm",
+            "repo": "Depixelization_poc",
+            "stars": 4548
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "gowitness",
+          "description": "gowitness - a golang, web screenshot utility using Chrome Headless",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-04-22T17:28:09Z",
+            "owner": "sensepost",
+            "repo": "gowitness",
+            "stars": 4477
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "invisible-playwright",
+          "description": "Playwright wrapper for a stealth-patched Firefox 150 binary, useful for screenshotting and recon against targets with anti-bot detection (reCAPTCHA v3, FingerprintPro, Cloudflare).",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-13T11:24:04Z",
+            "owner": "feder-cr",
+            "repo": "invisible_playwright",
+            "stars": 1881
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "screenshoteer",
+          "description": "Make website screenshots and mobile emulations from the command line.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2021-07-25T02:32:05Z",
+            "owner": "vladocar",
+            "repo": "screenshoteer",
+            "stars": 1668
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "eyeballer",
+          "description": "Convolutional neural network for analyzing pentest screenshots",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-03-08T20:43:54Z",
+            "owner": "BishopFox",
+            "repo": "eyeballer",
+            "stars": 1290
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "WitnessMe",
+          "description": "Web Inventory tool, takes screenshots of webpages using Pyppeteer (headless Chrome/Chromium) and provides some extra bells & whistles to make life easier.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-09-23T18:34:55Z",
+            "owner": "byt3bl33d3r",
+            "repo": "WitnessMe",
+            "stars": 760
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "httpscreenshot",
+          "description": "HTTPScreenshot is a tool for grabbing screenshots and HTML of large numbers of websites.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-10-01T16:04:24Z",
+            "owner": "breenmachine",
+            "repo": "httpscreenshot",
+            "stars": 648
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "scrying",
+          "description": "A tool for collecting RDP, web and VNC screenshots all in one place",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2023-04-03T22:55:55Z",
+            "owner": "nccgroup",
+            "repo": "scrying",
+            "stars": 478
+          }
+        }
+      ],
+      "title": "Screenshots"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "httpx",
+          "description": "httpx is a fast and multi-purpose HTTP toolkit allows to run multiple probers using retryablehttp library, it is designed to maintain the result reliability with increased threads.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-08-12T16:42:01Z",
+            "owner": "projectdiscovery",
+            "repo": "httpx",
+            "stars": 10280
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "whatweb",
+          "description": "Next generation web scanner",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Ruby",
+            "last_commit": "2026-04-02T15:43:24Z",
+            "owner": "urbanadventurer",
+            "repo": "WhatWeb",
+            "stars": 6779
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "wafw00f",
+          "description": "wafw00f allows one to identify and fingerprint Web Application Firewall (WAF) products protecting a website.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-04-19T12:47:41Z",
+            "owner": "EnableSecurity",
+            "repo": "wafw00f",
+            "stars": 6517
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "retire.js",
+          "description": "scanner detecting the use of JavaScript libraries with known vulnerabilities",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-08-08T05:17:29Z",
+            "owner": "RetireJS",
+            "repo": "retire.js",
+            "stars": 4159
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "webanalyze",
+          "description": "Port of Wappalyzer (uncovers technologies used on websites) to automate mass scanning.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-04-15T02:58:40Z",
+            "owner": "rverton",
+            "repo": "webanalyze",
+            "stars": 1167
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "tlsx",
+          "description": "A fast and configurable TLS grabber focused on TLS based data collection and analysis.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-08-12T03:13:19Z",
+            "owner": "projectdiscovery",
+            "repo": "tlsx",
+            "stars": 1130
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "cdncheck",
+          "description": "cdncheck is a tool for identifying the technology associated with dns / ip network addresses.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-08-10T15:12:38Z",
+            "owner": "projectdiscovery",
+            "repo": "cdncheck",
+            "stars": 985
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "graphw00f",
+          "description": "graphw00f is GraphQL Server Engine Fingerprinting utility for software security professionals looking to learn more about what technology is behind a given GraphQL endpoint.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-05-16T14:55:59Z",
+            "owner": "dolevf",
+            "repo": "graphw00f",
+            "stars": 886
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "fingerprintx",
+          "description": "fingerprintx is a standalone utility for service discovery on open ports that works well with other popular bug bounty command line tools.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Go",
+            "last_commit": "2026-01-13T18:25:31Z",
+            "owner": "praetorian-inc",
+            "repo": "fingerprintx",
+            "stars": 756
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "MurMurHash",
+          "description": "This little tool is to calculate a MurmurHash value of a favicon. This favicon hash can be used to look for similar websites on various search engines.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2023-08-30T18:23:31Z",
+            "owner": "Viralmaniar",
+            "repo": "MurMurHash",
+            "stars": 121
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "python-builtwith",
+          "description": "BuiltWith API client",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2020-04-12T07:15:51Z",
+            "owner": "claymation",
+            "repo": "python-builtwith",
+            "stars": 34
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "wappalyzer",
+          "description": "Identify technology on websites.",
+          "children": []
+        }
+      ],
+      "title": "Technologies"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "katana",
+          "description": "A next-generation crawling and spidering framework",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-08-12T17:03:35Z",
+            "owner": "projectdiscovery",
+            "repo": "katana",
+            "stars": 17311
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "dirsearch",
+          "description": "Web path scanner",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-07-28T03:06:56Z",
+            "owner": "maurosoria",
+            "repo": "dirsearch",
+            "stars": 14597
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "gobuster",
+          "description": "Directory/File, DNS and VHost busting tool written in Go",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-08-13T04:33:28Z",
+            "owner": "OJ",
+            "repo": "gobuster",
+            "stars": 13985
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "feroxbuster",
+          "description": "A fast, simple, recursive content discovery tool written in Rust.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-04-15T12:31:40Z",
+            "owner": "epi052",
+            "repo": "feroxbuster",
+            "stars": 8009
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "hakrawler",
+          "description": "Simple, fast web crawler designed for easy, quick discovery of endpoints and assets within a web application",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-08-05T04:05:39Z",
+            "owner": "hakluke",
+            "repo": "hakrawler",
+            "stars": 5108
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "kiterunner",
+          "description": "Fast API endpoint bruteforcer and content discovery tool for modern web applications.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-07-10T04:51:01Z",
+            "owner": "assetnote",
+            "repo": "kiterunner",
+            "stars": 3239
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "uncover",
+          "description": "uncover is a go wrapper using APIs of well known search engines to quickly discover exposed hosts on the internet.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-08-05T10:12:12Z",
+            "owner": "projectdiscovery",
+            "repo": "uncover",
+            "stars": 3032
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "gospider",
+          "description": "Gospider - Fast web spider written in Go",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2024-04-21T08:12:13Z",
+            "owner": "jaeles-project",
+            "repo": "gospider",
+            "stars": 2992
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "dirstalk",
+          "description": "Modern alternative to dirbuster/dirb",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2023-12-24T22:09:08Z",
+            "owner": "stefanoj3",
+            "repo": "dirstalk",
+            "stars": 398
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "dirbuster-ng",
+          "description": "dirbuster-ng is C CLI implementation of the Java dirbuster tool",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2020-07-19T22:55:54Z",
+            "owner": "digination",
+            "repo": "dirbuster-ng",
+            "stars": 357
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "crawley",
+          "description": "fast, feature-rich unix-way web scraper/crawler written in Golang.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-07-31T22:53:24Z",
+            "owner": "s0rg",
+            "repo": "crawley",
+            "stars": 341
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "vaf",
+          "description": "Vaf is a cross-platform very advanced and fast web fuzzer written in nim .",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Nim",
+            "last_commit": "2022-05-29T16:39:47Z",
+            "owner": "andreiverse",
+            "repo": "vaf",
+            "stars": 319
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "dirsearch",
+          "description": "A Go implementation of dirsearch.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2021-09-27T16:29:54Z",
+            "owner": "evilsocket",
+            "repo": "dirsearch",
+            "stars": 279
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "recursebuster",
+          "description": "rapid content discovery tool for recursively querying webservers, handy in pentesting and web application assessments",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2019-10-15T01:19:28Z",
+            "owner": "C-Sto",
+            "repo": "recursebuster",
+            "stars": 251
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "filebuster",
+          "description": "An extremely fast and flexible web fuzzer",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Perl",
+            "last_commit": "2023-02-25T01:24:40Z",
+            "owner": "henshin",
+            "repo": "filebuster",
+            "stars": 223
+          }
+        }
+      ],
+      "title": "Content Discovery"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "gau",
+          "description": "Fetch known URLs from AlienVault's Open Threat Exchange, the Wayback Machine, and Common Crawl.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-03-20T18:36:42Z",
+            "owner": "lc",
+            "repo": "gau",
+            "stars": 5060
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "waybackurls",
+          "description": "Fetch all the URLs that the Wayback Machine knows about for a domain",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2024-05-01T05:40:44Z",
+            "owner": "tomnomnom",
+            "repo": "waybackurls",
+            "stars": 4537
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "LinkFinder",
+          "description": "A python script that finds endpoints in JavaScript files",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-04-13T09:53:27Z",
+            "owner": "GerbenJavado",
+            "repo": "LinkFinder",
+            "stars": 4436
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "waymore",
+          "description": "Find way more from the Wayback Machine!",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-06-11T10:45:51Z",
+            "owner": "xnl-h4ck3r",
+            "repo": "waymore",
+            "stars": 2717
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "jsluice",
+          "description": "This tool extracts URLs, paths, secrets, and other interesting bits from JavaScript files. Values are extracted based not just on how they look, but also based on how they are used.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2024-05-22T02:26:53Z",
+            "owner": "BishopFox",
+            "repo": "jsluice",
+            "stars": 1889
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "xnLinkFinder",
+          "description": "A python tool used to discover endpoints, potential parameters, and a target specific wordlist for a given target",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-03-08T20:09:32Z",
+            "owner": "xnl-h4ck3r",
+            "repo": "xnLinkFinder",
+            "stars": 1583
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "URLFinder",
+          "description": "A high-speed tool for passively gathering URLs, optimized for efficient web asset discovery without active scanning.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-08-10T03:23:35Z",
+            "owner": "projectdiscovery",
+            "repo": "urlfinder",
+            "stars": 896
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "getJS",
+          "description": "A tool to fastly get all javascript sources/files",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2025-07-04T11:23:32Z",
+            "owner": "003random",
+            "repo": "getJS",
+            "stars": 887
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "BurpJSLinkFinder",
+          "description": "Burp Extension for a passive scanning JS files for endpoint links.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-03-22T18:00:59Z",
+            "owner": "InitRoot",
+            "repo": "BurpJSLinkFinder",
+            "stars": 820
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "jsleak",
+          "description": "jsleak is a tool to find secret , paths or links in JavaScript files or source code.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2025-09-25T16:36:58Z",
+            "owner": "byt3hx",
+            "repo": "jsleak",
+            "stars": 592
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "GoLinkFinder",
+          "description": "A fast and minimal JS endpoint extractor",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2024-11-10T18:38:46Z",
+            "owner": "0xsha",
+            "repo": "GoLinkFinder",
+            "stars": 389
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "urlgrab",
+          "description": "A golang utility to spider through a website searching for additional links.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2020-11-07T12:19:25Z",
+            "owner": "IAmStoxe",
+            "repo": "urlgrab",
+            "stars": 343
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "JS-Scan",
+          "description": "a .js scanner, built in php. designed to scrape urls and other info",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "CSS",
+            "last_commit": "2017-08-22T16:07:06Z",
+            "owner": "zseano",
+            "repo": "JS-Scan",
+            "stars": 228
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "github-endpoints",
+          "description": "This Go tool performs searches on GitHub and parses the results to find endpoints of a given domain.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2023-03-28T15:46:56Z",
+            "owner": "gwen001",
+            "repo": "github-endpoints",
+            "stars": 222
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "linx",
+          "description": "Reveals invisible links within JavaScript files",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2025-05-21T08:06:08Z",
+            "owner": "riza",
+            "repo": "linx",
+            "stars": 212
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "jsfinder",
+          "description": "A tool that scans web pages to find JavaScript file URLs linked in the HTML source code.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2023-05-08T08:25:10Z",
+            "owner": "kacakb",
+            "repo": "jsfinder",
+            "stars": 138
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "LinksDumper",
+          "description": "Extract (links/possible endpoints) from responses & filter them via decoding/sorting",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2019-08-27T09:54:40Z",
+            "owner": "arbazkiraak",
+            "repo": "LinksDumper",
+            "stars": 93
+          }
+        }
+      ],
+      "title": "Links"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Arjun",
+          "description": "HTTP parameter discovery suite.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-02-20T10:52:16Z",
+            "owner": "s0md3v",
+            "repo": "Arjun",
+            "stars": 6378
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ParamSpider",
+          "description": "Mining parameters from dark corners of Web Archives.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-03-07T16:16:48Z",
+            "owner": "devanshbatham",
+            "repo": "ParamSpider",
+            "stars": 3149
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "x8",
+          "description": "Hidden parameters discovery suite written in Rust.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2024-09-08T10:29:37Z",
+            "owner": "Sh1Yo",
+            "repo": "x8",
+            "stars": 2090
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "param-miner",
+          "description": "This extension identifies hidden, unlinked parameters. It's particularly useful for finding web alterx poisoning vulnerabilities.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2026-08-13T10:43:38Z",
+            "owner": "PortSwigger",
+            "repo": "param-miner",
+            "stars": 1451
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "parameth",
+          "description": "This tool can be used to brute discover GET and POST parameters",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Python",
+            "last_commit": "2019-08-24T15:17:14Z",
+            "owner": "maK-",
+            "repo": "parameth",
+            "stars": 1395
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ParamPamPam",
+          "description": "This tool for brute discover GET and POST parameters.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2022-06-27T11:45:19Z",
+            "owner": "Bo0oM",
+            "repo": "ParamPamPam",
+            "stars": 276
+          }
+        }
+      ],
+      "title": "Parameters"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "ffuf",
+          "description": "Fast web fuzzer written in Go",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-07-19T15:11:15Z",
+            "owner": "ffuf",
+            "repo": "ffuf",
+            "stars": 16525
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "fuzzdb",
+          "description": "Dictionary of attack patterns and primitives for black-box application fault injection and resource discovery.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2023-11-10T16:15:18Z",
+            "owner": "fuzzdb-project",
+            "repo": "fuzzdb",
+            "stars": 8973
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "wfuzz",
+          "description": "Web application fuzzer",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-01-21T15:31:40Z",
+            "owner": "xmendez",
+            "repo": "wfuzz",
+            "stars": 6551
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "IntruderPayloads",
+          "description": "A collection of Burpsuite Intruder payloads, BurpBounty payloads, fuzz lists, malicious file uploads and web pentesting methodologies and checklists.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "BlitzBasic",
+            "last_commit": "2021-09-27T01:47:05Z",
+            "owner": "1N3",
+            "repo": "IntruderPayloads",
+            "stars": 3970
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "fuzz.txt",
+          "description": "Potentially dangerous files",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2026-07-28T10:36:48Z",
+            "owner": "Bo0oM",
+            "repo": "fuzz.txt",
+            "stars": 3317
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "fuzzilli",
+          "description": "A JavaScript Engine Fuzzer",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Swift",
+            "last_commit": "2026-08-10T10:50:34Z",
+            "owner": "googleprojectzero",
+            "repo": "fuzzilli",
+            "stars": 2331
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "fuzzapi",
+          "description": "Fuzzapi is a tool used for REST API pentesting and uses API_Fuzzer gem",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Ruby",
+            "last_commit": "2021-02-25T10:23:01Z",
+            "owner": "Fuzzapi",
+            "repo": "fuzzapi",
+            "stars": 663
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "vaf",
+          "description": "very advanced (web) fuzzer written in Nim.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Nim",
+            "last_commit": "2022-05-29T16:39:47Z",
+            "owner": "andreiverse",
+            "repo": "vaf",
+            "stars": 319
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "qsfuzz",
+          "description": "qsfuzz (Query String Fuzz) allows you to build your own rules to fuzz query strings and easily identify vulnerabilities.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2023-02-12T01:21:41Z",
+            "owner": "ameenmaali",
+            "repo": "qsfuzz",
+            "stars": 300
+          }
+        }
+      ],
+      "title": "Fuzzing"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "bbscope",
+          "description": "Scope aggregation tool for HackerOne, Bugcrowd, Intigriti, YesWeHack, Immunefi",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-07-06T01:28:02Z",
+            "owner": "sw33tLie",
+            "repo": "bbscope",
+            "stars": 1430
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "jsmon",
+          "description": "A Javascript change monitoring tool for Bug Bounty.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-07-31T06:34:30Z",
+            "owner": "robre",
+            "repo": "jsmon",
+            "stars": 737
+          }
+        }
+      ],
+      "title": "Monitoring"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Exploitation"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Corsy",
+          "description": "CORS Misconfiguration Scanner",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2022-09-17T10:11:37Z",
+            "owner": "s0md3v",
+            "repo": "Corsy",
+            "stars": 1530
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "CORStest",
+          "description": "A simple CORS misconfiguration scanner",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2020-08-14T19:46:08Z",
+            "owner": "RUB-NDS",
+            "repo": "CORStest",
+            "stars": 424
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "CorsMe",
+          "description": "Cross Origin Resource Sharing MisConfiguration Scanner",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2021-11-17T17:19:26Z",
+            "owner": "Shivangx01b",
+            "repo": "CorsMe",
+            "stars": 170
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Corser",
+          "description": "Corser is a Golang CLI Application for Advanced CORS Misconfiguration Detection.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2024-10-26T06:20:52Z",
+            "owner": "cyinnove",
+            "repo": "corser",
+            "stars": 62
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "cors-scanner",
+          "description": "A multi-threaded scanner that helps identify CORS flaws/misconfigurations",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2019-11-18T18:43:47Z",
+            "owner": "laconicwolf",
+            "repo": "cors-scanner",
+            "stars": 19
+          }
+        }
+      ],
+      "title": "CORS Misconfiguration"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "crlfuzz",
+          "description": "A fast tool to scan CRLF vulnerability written in Go",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-07-31T00:17:32Z",
+            "owner": "dwisiswant0",
+            "repo": "crlfuzz",
+            "stars": 1555
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "CRLFsuite",
+          "description": "A fast tool specially designed to scan CRLF injection",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2023-10-17T04:27:24Z",
+            "owner": "Raghavd3v",
+            "repo": "CRLFsuite",
+            "stars": 598
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "CRLF-Injection-Scanner",
+          "description": "Command line tool for testing CRLF injection on a list of domains.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-04-14T20:09:57Z",
+            "owner": "MichaelStott",
+            "repo": "CRLF-Injection-Scanner",
+            "stars": 162
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Injectus",
+          "description": "CRLF and open redirect fuzzer",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Python",
+            "last_commit": "2021-08-31T12:33:12Z",
+            "owner": "dubs3c",
+            "repo": "Injectus",
+            "stars": 113
+          }
+        }
+      ],
+      "title": "CRLF Injection"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "dotdotpwn",
+          "description": "DotDotPwn - The Directory Traversal Fuzzer",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Perl",
+            "last_commit": "2022-09-28T02:51:18Z",
+            "owner": "wireghoul",
+            "repo": "dotdotpwn",
+            "stars": 1111
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "FDsploit",
+          "description": "File Inclusion & Directory Traversal fuzzing, enumeration & exploitation tool.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Python",
+            "last_commit": "2021-03-24T10:29:02Z",
+            "owner": "chrispetrou",
+            "repo": "FDsploit",
+            "stars": 273
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "off-by-slash",
+          "description": "Burp extension to detect alias traversal via NGINX misconfiguration at scale.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2021-11-18T15:08:36Z",
+            "owner": "bayotop",
+            "repo": "off-by-slash",
+            "stars": 266
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "liffier",
+          "description": "tired of manually add dot-dot-slash to your possible path traversal? this short snippet will increment ../ on the URL.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-04-10T06:08:28Z",
+            "owner": "momenbasel",
+            "repo": "liffier",
+            "stars": 16
+          }
+        }
+      ],
+      "title": "Directory Traversal"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "LFISuite",
+          "description": "Totally Automatic LFI Exploiter (+ Reverse Shell) and Scanner",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2022-04-13T04:04:36Z",
+            "owner": "D35m0nd142",
+            "repo": "LFISuite",
+            "stars": 1960
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "liffy",
+          "description": "Local file inclusion exploitation tool",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-05-19T23:42:41Z",
+            "owner": "mzfr",
+            "repo": "liffy",
+            "stars": 979
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "LFI-files",
+          "description": "Wordlist to bruteforce for LFI",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2019-10-06T13:13:31Z",
+            "owner": "hussein98d",
+            "repo": "LFI-files",
+            "stars": 129
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "LFI-Enum",
+          "description": "Scripts to execute enumeration via LFI",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Shell",
+            "last_commit": "2019-04-08T21:57:43Z",
+            "owner": "mthbernardes",
+            "repo": "LFI-Enum",
+            "stars": 92
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Burp-LFI-tests",
+          "description": "Fuzzing for LFI using Burpsuite",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2016-10-04T15:03:41Z",
+            "owner": "Team-Firebugs",
+            "repo": "Burp-LFI-tests",
+            "stars": 69
+          }
+        }
+      ],
+      "title": "File Inclusion"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "inql",
+          "description": "InQL - A Burp Extension for GraphQL Security Testing",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Kotlin",
+            "last_commit": "2026-06-17T14:00:52Z",
+            "owner": "doyensec",
+            "repo": "inql",
+            "stars": 1798
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "GraphQLmap",
+          "description": "GraphQLmap is a scripting engine to interact with a graphql endpoint for pentesting purposes.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-03-11T15:46:30Z",
+            "owner": "swisskyrepo",
+            "repo": "GraphQLmap",
+            "stars": 1687
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "clairvoyance",
+          "description": "Obtain GraphQL API schema despite disabled introspection!",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-12-05T10:50:30Z",
+            "owner": "nikitastupin",
+            "repo": "clairvoyance",
+            "stars": 1502
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "shapeshifter",
+          "description": "GraphQL security testing tool",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2022-03-31T07:08:54Z",
+            "owner": "szski",
+            "repo": "shapeshifter",
+            "stars": 125
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "graphql_beautifier",
+          "description": "Burp Suite extension to help make Graphql request more readable",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Ruby",
+            "last_commit": "2017-12-07T00:21:10Z",
+            "owner": "zidekmat",
+            "repo": "graphql_beautifier",
+            "stars": 29
+          }
+        }
+      ],
+      "title": "GraphQL Injection"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "ysoserial",
+          "description": "A proof-of-concept tool for generating payloads that exploit unsafe Java object deserialization.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2025-12-04T04:07:31Z",
+            "owner": "frohoff",
+            "repo": "ysoserial",
+            "stars": 9016
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "phpggc",
+          "description": "PHPGGC is a library of PHP unserialize() payloads along with a tool to generate them, from command line or programmatically.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2025-09-29T14:51:06Z",
+            "owner": "ambionics",
+            "repo": "phpggc",
+            "stars": 3873
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ysoserial.net",
+          "description": "Deserialization payload generator for a variety of .NET formatters",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2026-06-11T23:45:37Z",
+            "owner": "pwntester",
+            "repo": "ysoserial.net",
+            "stars": 3773
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "GadgetProbe",
+          "description": "Probe endpoints consuming Java serialized objects to identify classes, libraries, and library versions on remote Java classpaths.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2021-03-04T21:32:45Z",
+            "owner": "BishopFox",
+            "repo": "GadgetProbe",
+            "stars": 620
+          }
+        }
+      ],
+      "title": "Insecure Deserialization"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Oralyzer",
+          "description": "Open Redirection Analyzer",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2023-03-05T20:31:35Z",
+            "owner": "r0075h3ll",
+            "repo": "Oralyzer",
+            "stars": 820
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "OpenRedireX",
+          "description": "A Fuzzer for OpenRedirect issues",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-07-01T20:45:53Z",
+            "owner": "devanshbatham",
+            "repo": "OpenRedireX",
+            "stars": 796
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Injectus",
+          "description": "CRLF and open redirect fuzzer",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Python",
+            "last_commit": "2021-08-31T12:33:12Z",
+            "owner": "dubs3c",
+            "repo": "Injectus",
+            "stars": 113
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "dom-red",
+          "description": "Small script to check a list of domains against open redirect vulnerability",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Python",
+            "last_commit": "2022-01-22T18:28:58Z",
+            "owner": "Naategh",
+            "repo": "dom-red",
+            "stars": 30
+          }
+        }
+      ],
+      "title": "Open Redirect"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "turbo-intruder",
+          "description": "Turbo Intruder is a Burp Suite extension for sending large numbers of HTTP requests and analyzing the results.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Kotlin",
+            "last_commit": "2026-08-13T10:44:48Z",
+            "owner": "PortSwigger",
+            "repo": "turbo-intruder",
+            "stars": 1795
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "race-the-web",
+          "description": "Tests for race conditions in web applications. Includes a RESTful API to integrate into a continuous integration pipeline.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2022-03-18T01:37:41Z",
+            "owner": "TheHackerDev",
+            "repo": "race-the-web",
+            "stars": 634
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "razzer",
+          "description": "A Kernel fuzzer focusing on race bugs",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2019-07-10T00:23:42Z",
+            "owner": "compsec-snu",
+            "repo": "razzer",
+            "stars": 374
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "racepwn",
+          "description": "Race Condition framework",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2022-12-07T09:44:50Z",
+            "owner": "racepwn",
+            "repo": "racepwn",
+            "stars": 272
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "requests-racer",
+          "description": "Small Python library that makes it easy to exploit race conditions in web apps with Requests.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2023-05-22T22:30:23Z",
+            "owner": "nccgroup",
+            "repo": "requests-racer",
+            "stars": 161
+          }
+        }
+      ],
+      "title": "Race Condition"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "smuggler",
+          "description": "Smuggler - An HTTP Request Smuggling / Desync testing tool written in Python 3",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-01-02T12:46:17Z",
+            "owner": "defparam",
+            "repo": "smuggler",
+            "stars": 2092
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "h2csmuggler",
+          "description": "HTTP Request Smuggling over HTTP/2 Cleartext (h2c)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2022-05-10T21:52:07Z",
+            "owner": "BishopFox",
+            "repo": "h2csmuggler",
+            "stars": 807
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "http-request-smuggling",
+          "description": "HTTP Request Smuggling Detection Tool",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2023-12-21T10:19:56Z",
+            "owner": "anshumanpattnaik",
+            "repo": "http-request-smuggling",
+            "stars": 543
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "tiscripts",
+          "description": "These scripts I use to create Request Smuggling Desync payloads for CLTE and TECL style attacks.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2020-06-11T19:06:01Z",
+            "owner": "defparam",
+            "repo": "tiscripts",
+            "stars": 231
+          }
+        }
+      ],
+      "title": "Request Smuggling"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "SSRFmap",
+          "description": "Automatic SSRF fuzzer and exploitation tool",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-10T12:03:53Z",
+            "owner": "swisskyrepo",
+            "repo": "SSRFmap",
+            "stars": 3602
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Gopherus",
+          "description": "This tool generates gopher link for exploiting SSRF and gaining RCE in various servers",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2023-04-18T11:47:14Z",
+            "owner": "tarunkant",
+            "repo": "Gopherus",
+            "stars": 3405
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "singularity",
+          "description": "A DNS rebinding attack framework.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-07-21T21:43:01Z",
+            "owner": "nccgroup",
+            "repo": "singularity",
+            "stars": 1314
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "SSRFire",
+          "description": "An automated SSRF finder. Just give the domain name and your server and chill! ;) Also has options to find XSS and open redirects",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Shell",
+            "last_commit": "2021-12-08T04:22:11Z",
+            "owner": "ksharinarayanan",
+            "repo": "SSRFire",
+            "stars": 968
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "surf",
+          "description": "Escalate your SSRF vulnerabilities on Modern Cloud Environments. allows you to filter a list of hosts, returning a list of viable SSRF candidates.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-07-10T20:29:53Z",
+            "owner": "assetnote",
+            "repo": "surf",
+            "stars": 757
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "rbndr",
+          "description": "Simple DNS Rebinding Service",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2020-01-16T22:40:58Z",
+            "owner": "taviso",
+            "repo": "rbndr",
+            "stars": 756
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "whonow",
+          "description": "A \"malicious\" DNS server for executing DNS Rebinding attacks on the fly (public instance running on rebind.network:53)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2021-12-17T11:29:43Z",
+            "owner": "brannondorsey",
+            "repo": "whonow",
+            "stars": 659
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ground-control",
+          "description": "A collection of scripts that run on my web server. Mainly for debugging SSRF, blind XSS, and XXE vulnerabilities.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Ruby",
+            "last_commit": "2017-06-12T20:51:38Z",
+            "owner": "jobertabma",
+            "repo": "ground-control",
+            "stars": 548
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "dns-rebind-toolkit",
+          "description": "A front-end JavaScript toolkit for creating DNS rebinding attacks.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2021-10-02T14:42:04Z",
+            "owner": "brannondorsey",
+            "repo": "dns-rebind-toolkit",
+            "stars": 502
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "dref",
+          "description": "DNS Rebinding Exploitation Framework",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2021-04-27T17:33:04Z",
+            "owner": "ReversecLabs",
+            "repo": "dref",
+            "stars": 494
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "B-XSSRF",
+          "description": "Toolkit to detect and keep track on Blind XSS, XXE & SSRF",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2019-08-23T10:50:05Z",
+            "owner": "SpiderMate",
+            "repo": "B-XSSRF",
+            "stars": 345
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ssrf-sheriff",
+          "description": "A simple SSRF-testing sheriff written in Go",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2024-10-31T20:47:15Z",
+            "owner": "teknogeek",
+            "repo": "ssrf-sheriff",
+            "stars": 338
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "httprebind",
+          "description": "Automatic tool for DNS rebinding-based SSRF attacks",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2020-08-21T12:43:27Z",
+            "owner": "daeken",
+            "repo": "httprebind",
+            "stars": 307
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "httprebind",
+          "description": "Automatic tool for DNS rebinding-based SSRF attacks",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2020-08-21T12:43:27Z",
+            "owner": "daeken",
+            "repo": "httprebind",
+            "stars": 307
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "lorsrf",
+          "description": "Bruteforcing on Hidden parameters to find SSRF vulnerability using GET and POST Methods",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2024-09-22T21:20:09Z",
+            "owner": "MindPatch",
+            "repo": "lorsrf",
+            "stars": 297
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "extended-ssrf-search",
+          "description": "Smart ssrf scanner using different methods like parameter brute forcing in post and get...",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2021-02-11T20:12:37Z",
+            "owner": "Damian89",
+            "repo": "extended-ssrf-search",
+            "stars": 277
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "dnsFookup",
+          "description": "DNS rebinding toolkit",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2023-05-22T06:46:03Z",
+            "owner": "makuga01",
+            "repo": "dnsFookup",
+            "stars": 256
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "gaussrf",
+          "description": "Fetch known URLs from AlienVault's Open Threat Exchange, the Wayback Machine, and Common Crawl and Filter Urls With OpenRedirection or SSRF Parameters.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Shell",
+            "last_commit": "2020-11-11T16:04:04Z",
+            "owner": "KathanP19",
+            "repo": "gaussrf",
+            "stars": 175
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ssrfDetector",
+          "description": "Server-side request forgery detector",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2017-06-26T14:08:41Z",
+            "owner": "JacobReynolds",
+            "repo": "ssrfDetector",
+            "stars": 165
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "grafana-ssrf",
+          "description": "Authenticated SSRF in Grafana",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-06-24T19:50:33Z",
+            "owner": "RandomRobbieBF",
+            "repo": "grafana-ssrf",
+            "stars": 83
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "sentrySSRF",
+          "description": "Tool to searching sentry config on page or in javascript files and check blind SSRF",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-05-28T10:26:19Z",
+            "owner": "xawdxawdx",
+            "repo": "sentrySSRF",
+            "stars": 72
+          }
+        }
+      ],
+      "title": "Server Side Request Forgery"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "sqlmap",
+          "description": "Automatic SQL injection and database takeover tool",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-13T11:26:59Z",
+            "owner": "sqlmapproject",
+            "repo": "sqlmap",
+            "stars": 38173
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ghauri",
+          "description": "An advanced cross-platform tool that automates the process of detecting and exploiting SQL injection security flaws",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-10-04T02:50:59Z",
+            "owner": "r0oth3x49",
+            "repo": "ghauri",
+            "stars": 4062
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "NoSQLMap",
+          "description": "Automated NoSQL database enumeration and web application exploitation tool.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-07-28T02:28:11Z",
+            "owner": "codingo",
+            "repo": "NoSQLMap",
+            "stars": 3338
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "sqliv",
+          "description": "massive SQL injection vulnerability scanner",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Python",
+            "last_commit": "2018-08-14T11:28:52Z",
+            "owner": "the-robot",
+            "repo": "sqliv",
+            "stars": 1230
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "SQLiScanner",
+          "description": "Automatic SQL injection with Charles and sqlmap api",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Python",
+            "last_commit": "2018-05-01T09:59:47Z",
+            "owner": "0xbug",
+            "repo": "SQLiScanner",
+            "stars": 824
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "mssqlproxy",
+          "description": "mssqlproxy is a toolkit aimed to perform lateral movement in restricted environments through a compromised Microsoft SQL Server via socket reuse",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2021-02-16T20:13:04Z",
+            "owner": "blackarrowsec",
+            "repo": "mssqlproxy",
+            "stars": 772
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "sqli-hunter",
+          "description": "SQLi-Hunter is a simple HTTP / HTTPS proxy server and a SQLMAP API wrapper that makes digging SQLi easy.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Ruby",
+            "last_commit": "2024-04-27T12:33:43Z",
+            "owner": "zt2",
+            "repo": "sqli-hunter",
+            "stars": 433
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "nosqli",
+          "description": "NoSql Injection CLI tool, for finding vulnerable websites using MongoDB.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2021-10-31T10:40:53Z",
+            "owner": "Charlie-belmer",
+            "repo": "nosqli",
+            "stars": 413
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ESC",
+          "description": "Evil SQL Client (ESC) is an interactive .NET SQL console client with enhanced SQL Server discovery, access, and data exfiltration features.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2023-04-25T14:39:35Z",
+            "owner": "NetSPI",
+            "repo": "ESC",
+            "stars": 304
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "waybackSqliScanner",
+          "description": "Gather urls from wayback machine then test each GET parameter for sql injection.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2019-06-06T16:08:14Z",
+            "owner": "ghostlulzhacks",
+            "repo": "waybackSqliScanner",
+            "stars": 202
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "mssqli-duet",
+          "description": "SQL injection script for MSSQL that extracts domain users from an Active Directory environment based on RID bruteforcing",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2020-05-10T19:30:35Z",
+            "owner": "Keramas",
+            "repo": "mssqli-duet",
+            "stars": 90
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "andor",
+          "description": "Blind SQL Injection Tool with Golang",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2021-12-31T11:51:04Z",
+            "owner": "sadicann",
+            "repo": "andor",
+            "stars": 82
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "BurpSQLTruncSanner",
+          "description": "Messy BurpSuite plugin for SQL Truncation vulnerabilities.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2020-04-17T20:12:07Z",
+            "owner": "InitRoot",
+            "repo": "BurpSQLTruncSanner",
+            "stars": 64
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Blinder",
+          "description": "A python library to automate time-based blind SQL injection",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2019-09-15T07:42:53Z",
+            "owner": "mhaskar",
+            "repo": "Blinder",
+            "stars": 50
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "SleuthQL",
+          "description": "Python3 Burp History parsing tool to discover potential SQL injection points. To be used in tandem with SQLmap.",
+          "children": []
+        },
+        {
+          "node_type": "item",
+          "title": "burp-to-sqlmap",
+          "description": "Performing SQLInjection test on Burp Suite Bulk Requests using SQLMap",
+          "children": []
+        }
+      ],
+      "title": "SQL Injection"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "XSStrike",
+          "description": "Most advanced XSS scanner.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-04-26T08:47:06Z",
+            "owner": "s0md3v",
+            "repo": "XSStrike",
+            "stars": 15135
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "dalfox",
+          "description": "DalFox(Finder Of XSS) / Parameter Analysis and XSS Scanning tool based on golang",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-08-13T11:44:23Z",
+            "owner": "hahwul",
+            "repo": "dalfox",
+            "stars": 5223
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ezXSS",
+          "description": "ezXSS is an easy way for penetration testers and bug bounty hunters to test (blind) Cross Site Scripting.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2026-07-08T13:15:18Z",
+            "owner": "ssl",
+            "repo": "ezXSS",
+            "stars": 2325
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "xssor2",
+          "description": "XSS'OR - Hack with JavaScript.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2021-12-12T09:58:05Z",
+            "owner": "evilcos",
+            "repo": "xssor2",
+            "stars": 2223
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "xsscrapy",
+          "description": "XSS spider - 66/66 wavsep XSS detected",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-06-13T06:17:02Z",
+            "owner": "DanMcInerney",
+            "repo": "xsscrapy",
+            "stars": 1745
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "xsshunter",
+          "description": "The XSS Hunter service - a portable version of XSSHunter.com",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2022-12-07T23:37:03Z",
+            "owner": "mandatoryprogrammer",
+            "repo": "xsshunter",
+            "stars": 1556
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "xsser",
+          "description": "Cross Site \"Scripter\" (aka XSSer) is an automatic -framework- to detect, exploit and report XSS vulnerabilities in web-based applications.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-07-09T17:33:34Z",
+            "owner": "epsylon",
+            "repo": "xsser",
+            "stars": 1460
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "weaponised-XSS-payloads",
+          "description": "XSS payloads designed to turn alert(1) into P1",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2023-09-12T12:44:23Z",
+            "owner": "hakluke",
+            "repo": "weaponised-XSS-payloads",
+            "stars": 1404
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "XSpear",
+          "description": "Powerful XSS Scanning and Parameter analysis tool&gem",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Ruby",
+            "last_commit": "2026-03-03T08:54:02Z",
+            "owner": "hahwul",
+            "repo": "XSpear",
+            "stars": 1364
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "sleepy-puppy",
+          "description": "Sleepy Puppy XSS Payload Management Framework",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2018-07-24T20:33:09Z",
+            "owner": "Netflix-Skunkworks",
+            "repo": "sleepy-puppy",
+            "stars": 1044
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "findom-xss",
+          "description": "A fast DOM based XSS vulnerability scanner with simplicity.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Shell",
+            "last_commit": "2022-09-30T06:49:20Z",
+            "owner": "dwisiswant0",
+            "repo": "findom-xss",
+            "stars": 866
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "JSONBee",
+          "description": "A ready to use JSONP endpoints/payloads to help bypass content security policy (CSP) of different websites.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2024-05-06T17:53:51Z",
+            "owner": "zigoo0",
+            "repo": "JSONBee",
+            "stars": 765
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "CSPBypass",
+          "description": "a tool designed to help bypass restrictive Content Security Policies (CSP) and exploit XSS (Cross-Site Scripting) vulnerabilities on sites where injections are blocked by CSPs that only allow certain whitelisted domains.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-08-12T12:56:06Z",
+            "owner": "renniepak",
+            "repo": "CSPBypass",
+            "stars": 712
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "docem",
+          "description": "Uility to embed XXE and XSS payloads in docx,odt,pptx,etc (OXML_XEE on steroids)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-01-28T14:46:21Z",
+            "owner": "whitel1st",
+            "repo": "docem",
+            "stars": 685
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "bXSS",
+          "description": "bXSS is a utility which can be used by bug hunters and organizations to identify Blind Cross-Site Scripting.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2023-03-04T02:31:09Z",
+            "owner": "LewisArdern",
+            "repo": "bXSS",
+            "stars": 577
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "BruteXSS",
+          "description": "BruteXSS is a tool written in python simply to find XSS vulnerabilities in web application.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Python",
+            "last_commit": "2021-06-17T05:43:22Z",
+            "owner": "rajeshmajumdar",
+            "repo": "BruteXSS",
+            "stars": 567
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "tracy",
+          "description": "A tool designed to assist with finding all sinks and sources of a web application and display these results in a digestible manner.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2023-03-06T17:30:26Z",
+            "owner": "nccgroup",
+            "repo": "tracy",
+            "stars": 560
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ground-control",
+          "description": "A collection of scripts that run on my web server. Mainly for debugging SSRF, blind XSS, and XXE vulnerabilities.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Ruby",
+            "last_commit": "2017-06-12T20:51:38Z",
+            "owner": "jobertabma",
+            "repo": "ground-control",
+            "stars": 548
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "xssValidator",
+          "description": "This is a burp intruder extender that is designed for automation and validation of XSS vulnerabilities.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Java",
+            "last_commit": "2022-02-24T20:00:28Z",
+            "owner": "NetSPI",
+            "repo": "xssValidator",
+            "stars": 421
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "domdig",
+          "description": "DOM XSS scanner for Single Page Applications",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2025-11-15T10:50:35Z",
+            "owner": "fcavallarin",
+            "repo": "domdig",
+            "stars": 420
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "JSShell",
+          "description": "An interactive multi-user web JS shell",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2022-06-28T14:40:27Z",
+            "owner": "Den1al",
+            "repo": "JSShell",
+            "stars": 364
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "B-XSSRF",
+          "description": "Toolkit to detect and keep track on Blind XSS, XXE & SSRF",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2019-08-23T10:50:05Z",
+            "owner": "SpiderMate",
+            "repo": "B-XSSRF",
+            "stars": 345
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "XSS-Radar",
+          "description": "XSS Radar is a tool that detects parameters and fuzzes them for cross-site scripting vulnerabilities.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2018-01-08T21:17:44Z",
+            "owner": "bugbountyforum",
+            "repo": "XSS-Radar",
+            "stars": 331
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "femida",
+          "description": "Automated blind-xss search for Burp Suite",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2019-10-10T15:02:41Z",
+            "owner": "wish-i-was",
+            "repo": "femida",
+            "stars": 283
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "xssmap",
+          "description": "XSSMap 是一款基于 Python3 开发用于检测 XSS 漏洞的工具",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2020-08-20T01:25:41Z",
+            "owner": "Jewel591",
+            "repo": "xssmap",
+            "stars": 270
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "xsshunter_client",
+          "description": "Correlated injection proxy tool for XSS Hunter",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2022-12-26T20:02:41Z",
+            "owner": "mandatoryprogrammer",
+            "repo": "xsshunter_client",
+            "stars": 258
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "XSSCon",
+          "description": "XSSCon: Simple XSS Scanner tool",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2019-09-01T02:32:18Z",
+            "owner": "menkrep1337",
+            "repo": "XSSCon",
+            "stars": 247
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "shadow-workers",
+          "description": "Shadow Workers is a free and open source C2 and proxy designed for penetration testers to help in the exploitation of XSS and malicious Service Workers (SW)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2023-10-03T05:33:45Z",
+            "owner": "shadow-workers",
+            "repo": "shadow-workers",
+            "stars": 245
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "xss2png",
+          "description": "PNG IDAT chunks XSS payload generator",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2022-10-11T17:26:14Z",
+            "owner": "vavkamil",
+            "repo": "xss2png",
+            "stars": 216
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "domxssscanner",
+          "description": "DOMXSS Scanner is an online tool to scan source code for DOM based XSS vulnerabilities",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "HTML",
+            "last_commit": "2019-01-17T12:00:46Z",
+            "owner": "yaph",
+            "repo": "domxssscanner",
+            "stars": 194
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "extended-xss-search",
+          "description": "A better version of my xssfinder tool - scans for different types of xss on a list of urls.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2019-08-03T19:33:14Z",
+            "owner": "Damian89",
+            "repo": "extended-xss-search",
+            "stars": 189
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "BitBlinder",
+          "description": "BurpSuite extension to inject custom cross-site scripting payloads on every form/request submitted to detect blind XSS vulnerabilities",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-05-12T16:05:41Z",
+            "owner": "BitTheByte",
+            "repo": "BitBlinder",
+            "stars": 124
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "XSSOauthPersistence",
+          "description": "Maintaining account persistence via XSS and Oauth",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2019-01-07T09:06:47Z",
+            "owner": "dxa4481",
+            "repo": "XSSOauthPersistence",
+            "stars": 77
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "rexsser",
+          "description": "This is a burp plugin that extracts keywords from response using regexes and test for reflected XSS on the target scope.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2020-11-05T16:51:38Z",
+            "owner": "profmoriarity",
+            "repo": "rexsser",
+            "stars": 75
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "dom-based-xss-finder",
+          "description": "Chrome extension that finds DOM based XSS vulnerabilities",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2025-06-03T03:29:58Z",
+            "owner": "AsaiKen",
+            "repo": "dom-based-xss-finder",
+            "stars": 75
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Xss-Sql-Fuzz",
+          "description": "burpsuite 插件对GP所有参数(过滤特殊参数)一键自动添加xss sql payload 进行fuzz",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2018-12-04T10:34:52Z",
+            "owner": "jiangsir404",
+            "repo": "Xss-Sql-Fuzz",
+            "stars": 63
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "XSSwagger",
+          "description": "A simple Swagger-ui scanner that can detect old versions vulnerable to various XSS attacks",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2019-08-30T08:53:27Z",
+            "owner": "vavkamil",
+            "repo": "XSSwagger",
+            "stars": 61
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "vaya-ciego-nen",
+          "description": "Detect, manage and exploit Blind Cross-site scripting (XSS) vulnerabilities.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2023-01-20T00:21:54Z",
+            "owner": "hipotermia",
+            "repo": "vaya-ciego-nen",
+            "stars": 39
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "xss-flare",
+          "description": "XSS hunter on cloudflare serverless workers.",
+          "children": []
+        },
+        {
+          "node_type": "item",
+          "title": "XSSTerminal",
+          "description": "Develop your own XSS Payload using interactive typing",
+          "children": []
+        }
+      ],
+      "title": "XSS Injection"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "XXEinjector",
+          "description": "Tool for automatic exploitation of XXE vulnerability using direct and different out of band methods.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Ruby",
+            "last_commit": "2024-12-01T15:25:27Z",
+            "owner": "enjoiz",
+            "repo": "XXEinjector",
+            "stars": 1793
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "oxml_xxe",
+          "description": "A tool for embedding XXE/XML exploits into different filetypes",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Ruby",
+            "last_commit": "2024-12-16T11:26:53Z",
+            "owner": "BuffaloWill",
+            "repo": "oxml_xxe",
+            "stars": 1179
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "docem",
+          "description": "Uility to embed XXE and XSS payloads in docx,odt,pptx,etc (OXML_XEE on steroids)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-01-28T14:46:21Z",
+            "owner": "whitel1st",
+            "repo": "docem",
+            "stars": 685
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "dtd-finder",
+          "description": "List DTDs and generate XXE payloads using those local DTDs.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Kotlin",
+            "last_commit": "2024-02-21T00:00:00Z",
+            "owner": "GoSecure",
+            "repo": "dtd-finder",
+            "stars": 663
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "xxexploiter",
+          "description": "Tool to help exploit XXE vulnerabilities",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2023-02-04T12:32:01Z",
+            "owner": "luisfontes19",
+            "repo": "xxexploiter",
+            "stars": 616
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ground-control",
+          "description": "A collection of scripts that run on my web server. Mainly for debugging SSRF, blind XSS, and XXE vulnerabilities.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Ruby",
+            "last_commit": "2017-06-12T20:51:38Z",
+            "owner": "jobertabma",
+            "repo": "ground-control",
+            "stars": 548
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "xxeserv",
+          "description": "A mini webserver with FTP support for XXE payloads",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2024-01-03T13:07:30Z",
+            "owner": "staaldraad",
+            "repo": "xxeserv",
+            "stars": 345
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "B-XSSRF",
+          "description": "Toolkit to detect and keep track on Blind XSS, XXE & SSRF",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2019-08-23T10:50:05Z",
+            "owner": "SpiderMate",
+            "repo": "B-XSSRF",
+            "stars": 345
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "metahttp",
+          "description": "A bash script that automates the scanning of a target network for HTTP resources through XXE",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Shell",
+            "last_commit": "2020-12-02T10:04:14Z",
+            "owner": "vp777",
+            "repo": "metahttp",
+            "stars": 38
+          }
+        }
+      ],
+      "title": "XXE Injection"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "tplmap",
+          "description": "Server-Side Template Injection and Code Injection Detection and Exploitation Tool",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-04-21T14:47:13Z",
+            "owner": "epinna",
+            "repo": "tplmap",
+            "stars": 4193
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "SSTImap",
+          "description": "Automatic SSTI detection tool with interactive interface",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-04-25T23:35:31Z",
+            "owner": "vladko312",
+            "repo": "SSTImap",
+            "stars": 1604
+          }
+        }
+      ],
+      "title": "SSTI Injection"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "nomore403",
+          "description": "Advanced tool for security researchers to bypass 403/40X restrictions .",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-06-21T10:19:20Z",
+            "owner": "devploit",
+            "repo": "nomore403",
+            "stars": 1830
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "nowafpls",
+          "description": "Burp Plugin to Bypass WAFs through the insertion of Junk Data.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-07-14T12:26:46Z",
+            "owner": "assetnote",
+            "repo": "nowafpls",
+            "stars": 1503
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Forbidden Buster",
+          "description": "A tool designed to automate various techniques in order to bypass HTTP 401 and 403 response codes and gain access to unauthorized areas in the system.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-08-31T07:51:58Z",
+            "owner": "Sn1r",
+            "repo": "Forbidden-Buster",
+            "stars": 251
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "XFFenum",
+          "description": "A simple tool to bypass 403 forbidden end-points behind load balancers (Cloudflare) based on X-Forwarded-For header.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-05-03T19:47:14Z",
+            "owner": "vavkamil",
+            "repo": "XFFenum",
+            "stars": 99
+          }
+        }
+      ],
+      "title": "Waf Evasion"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Miscellaneous"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "thc-hydra",
+          "description": "Hydra is a parallelized login cracker which supports numerous protocols to attack.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2026-07-30T10:11:35Z",
+            "owner": "vanhauser-thc",
+            "repo": "thc-hydra",
+            "stars": 12153
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "DefaultCreds-cheat-sheet",
+          "description": "One place for all the default credentials to assist the Blue/Red teamers activities on finding devices with default password",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-07-09T10:09:24Z",
+            "owner": "ihebski",
+            "repo": "DefaultCreds-cheat-sheet",
+            "stars": 6713
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "patator",
+          "description": "Patator is a multi-purpose brute-forcer, with a modular design and a flexible usage.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-05-20T00:07:33Z",
+            "owner": "lanjelot",
+            "repo": "patator",
+            "stars": 3919
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "BruteX",
+          "description": "Automatically brute force all services running on a target.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Shell",
+            "last_commit": "2024-08-18T23:18:37Z",
+            "owner": "1N3",
+            "repo": "BruteX",
+            "stars": 2289
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "changeme",
+          "description": "A default credential scanner.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-07-08T21:20:06Z",
+            "owner": "ztgrace",
+            "repo": "changeme",
+            "stars": 1515
+          }
+        }
+      ],
+      "title": "Passwords"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "gitleaks",
+          "description": "Scan git repos (or files) for secrets using regex and entropy",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-07-29T04:13:17Z",
+            "owner": "gitleaks",
+            "repo": "gitleaks",
+            "stars": 28680
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "truffleHog",
+          "description": "Searches through git repositories for high entropy strings and secrets, digging deep into commit history",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-08-12T13:56:18Z",
+            "owner": "trufflesecurity",
+            "repo": "trufflehog",
+            "stars": 27433
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "git-secrets",
+          "description": "Prevents you from committing secrets and credentials into git repositories",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Shell",
+            "last_commit": "2025-09-17T20:31:20Z",
+            "owner": "awslabs",
+            "repo": "git-secrets",
+            "stars": 13371
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "keyhacks",
+          "description": "KeyHacks shows methods to validate different API keys found on a Bug Bounty Program or a pentest.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2026-08-07T07:14:53Z",
+            "owner": "streaak",
+            "repo": "keyhacks",
+            "stars": 6312
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "gitrob",
+          "description": "Reconnaissance tool for GitHub organizations",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Go",
+            "last_commit": "2022-09-20T18:09:09Z",
+            "owner": "michenriksen",
+            "repo": "gitrob",
+            "stars": 6196
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "detect-secrets",
+          "description": "An enterprise friendly way of detecting and preventing secrets in code.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-04-02T17:10:40Z",
+            "owner": "Yelp",
+            "repo": "detect-secrets",
+            "stars": 4618
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "shhgit",
+          "description": "Ah shhgit! Find GitHub secrets in real time",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2025-02-28T15:41:48Z",
+            "owner": "eth0izzle",
+            "repo": "shhgit",
+            "stars": 3975
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "cariddi",
+          "description": "Take a list of domains, crawl urls and scan for endpoints, secrets, api keys, file extensions, tokens and more...",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-07-15T13:49:06Z",
+            "owner": "edoardottt",
+            "repo": "cariddi",
+            "stars": 3694
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "SecretFinder",
+          "description": "A python script for finding sensitive data (apikeys, accesstoken,jwt,..) and search anything on javascript files.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-05-26T09:36:41Z",
+            "owner": "m4ll0k",
+            "repo": "SecretFinder",
+            "stars": 2499
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "gitGraber",
+          "description": "gitGraber: monitor GitHub to search and find sensitive data in real time for different online services",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-03-26T09:32:20Z",
+            "owner": "hisxo",
+            "repo": "gitGraber",
+            "stars": 2346
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "noseyparker",
+          "description": "Nosey Parker is a command-line program that finds secrets and sensitive information in textual data and Git history.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Rust",
+            "last_commit": "2026-02-21T13:04:04Z",
+            "owner": "praetorian-inc",
+            "repo": "noseyparker",
+            "stars": 2343
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "GitMiner",
+          "description": "Tool for advanced mining for content on Github",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-11-05T04:02:16Z",
+            "owner": "UnkL4b",
+            "repo": "GitMiner",
+            "stars": 2152
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "talisman",
+          "description": "By hooking into the pre-push hook provided by Git, Talisman validates the outgoing changeset for things that look suspicious - such as authorization tokens and private keys.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-03-01T22:36:44Z",
+            "owner": "thoughtworks",
+            "repo": "talisman",
+            "stars": 2095
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "GitGot",
+          "description": "Semi-automated, feedback-driven tool to rapidly search through troves of public data on GitHub for sensitive secrets.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-03-07T13:48:48Z",
+            "owner": "BishopFox",
+            "repo": "GitGot",
+            "stars": 1570
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "github-search",
+          "description": "Tools to perform basic search on GitHub.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2023-02-09T14:17:06Z",
+            "owner": "gwen001",
+            "repo": "github-search",
+            "stars": 1505
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "GitHound",
+          "description": "Recon tool leveraging Code Search API. Scans for exposed API keys across all of GitHub, not just known repos and orgs. Support for GitHub dorks.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-02-10T00:32:15Z",
+            "owner": "tillson",
+            "repo": "git-hound",
+            "stars": 1448
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "git-all-secrets",
+          "description": "A tool to capture all the git secrets by leveraging multiple open source git searching tools",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2019-06-25T05:33:10Z",
+            "owner": "anshumanbh",
+            "repo": "git-all-secrets",
+            "stars": 1143
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "earlybird",
+          "description": "EarlyBird is a sensitive data detection tool capable of scanning source code repositories for clear text password violations, PII, outdated cryptography methods, key files and more.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-05-26T06:46:44Z",
+            "owner": "americanexpress",
+            "repo": "earlybird",
+            "stars": 774
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "keyFinder",
+          "description": "A Chrome extension that passively scans web pages for API keys, tokens, and secrets using 80+ regex patterns and Shannon entropy analysis across 10 attack surfaces.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-07-19T03:09:26Z",
+            "owner": "momenbasel",
+            "repo": "keyFinder",
+            "stars": 697
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "repo-supervisor",
+          "description": "Scan your code for security misconfiguration, search for passwords and secrets.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "JavaScript",
+            "last_commit": "2023-06-23T07:17:30Z",
+            "owner": "okta-graveyard",
+            "repo": "repo-supervisor",
+            "stars": 656
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "rusty-hog",
+          "description": "A suite of secret scanners built in Rust for performance. Based on TruffleHog",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-08-03T14:16:54Z",
+            "owner": "newrelic",
+            "repo": "rusty-hog",
+            "stars": 555
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "whispers",
+          "description": "Identify hardcoded secrets and dangerous behaviours",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Python",
+            "last_commit": "2023-10-11T12:08:40Z",
+            "owner": "Skyscanner",
+            "repo": "whispers",
+            "stars": 505
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "git-vuln-finder",
+          "description": "Finding potential software vulnerabilities from git commit messages",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2023-10-07T06:38:53Z",
+            "owner": "cve-search",
+            "repo": "git-vuln-finder",
+            "stars": 428
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Trufflehog-Chrome-Extension",
+          "description": "Trufflehog-Chrome-Extension",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2021-10-16T18:14:24Z",
+            "owner": "trufflesecurity",
+            "repo": "Trufflehog-Chrome-Extension",
+            "stars": 423
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "dufflebag",
+          "description": "Search exposed EBS volumes for secrets",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2023-04-24T18:33:35Z",
+            "owner": "BishopFox",
+            "repo": "dufflebag",
+            "stars": 305
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "yar",
+          "description": "Yar is a tool for plunderin' organizations, users and/or repositories.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2021-01-03T16:40:04Z",
+            "owner": "nielsing",
+            "repo": "yar",
+            "stars": 240
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "secret-bridge",
+          "description": "Monitors Github for leaked secrets",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-10-25T23:48:16Z",
+            "owner": "duo-labs",
+            "repo": "secret-bridge",
+            "stars": 208
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "js-snitch",
+          "description": "Scans remote JavaScript files with Trufflehog + Semgrep to detect leaked secrets.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-01-21T12:21:21Z",
+            "owner": "vavkamil",
+            "repo": "js-snitch",
+            "stars": 147
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "commit-stream",
+          "description": "#OSINT tool for finding Github repositories by extracting commit logs in real time from the Github event API",
+          "children": []
+        }
+      ],
+      "title": "Secrets"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "zizmor",
+          "description": "Static analysis tool for GitHub Actions",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-08-13T04:45:02Z",
+            "owner": "zizmorcore",
+            "repo": "zizmor",
+            "stars": 6016
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "GitTools",
+          "description": "A repository with 3 tools for pwn'ing websites with .git repositories available",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Shell",
+            "last_commit": "2026-07-15T08:19:13Z",
+            "owner": "internetwache",
+            "repo": "GitTools",
+            "stars": 4178
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "git-dumper",
+          "description": "A tool to dump a git repository from a website",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-07-09T17:31:17Z",
+            "owner": "arthaud",
+            "repo": "git-dumper",
+            "stars": 2638
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "dvcs-ripper",
+          "description": "Rip web accessible (distributed) version control systems: SVN/GIT/HG...",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Perl",
+            "last_commit": "2024-07-19T12:49:07Z",
+            "owner": "kost",
+            "repo": "dvcs-ripper",
+            "stars": 1781
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "gitjacker",
+          "description": "Leak git repositories from misconfigured websites",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2025-12-05T02:29:17Z",
+            "owner": "liamg",
+            "repo": "gitjacker",
+            "stars": 1609
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "GitHunter",
+          "description": "A tool for searching a Git repository for interesting content",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2023-12-18T23:21:43Z",
+            "owner": "digininja",
+            "repo": "GitHunter",
+            "stars": 107
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Gato (Github Attack TOolkit)",
+          "description": "GitHub Self-Hosted Runner Enumeration and Attack Tool",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Python",
+            "last_commit": "2026-04-24T16:25:34Z",
+            "owner": "praetorian-inc",
+            "repo": "gato",
+            "stars": 9
+          }
+        }
+      ],
+      "title": "Git"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "S3Scanner",
+          "description": "Scan for open AWS S3 buckets and dump the contents",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-08-03T13:45:56Z",
+            "owner": "sa7mon",
+            "repo": "S3Scanner",
+            "stars": 3162
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "AWSBucketDump",
+          "description": "Security Tool to Look For Interesting Files in S3 Buckets",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-04-10T06:15:23Z",
+            "owner": "jordanpotti",
+            "repo": "AWSBucketDump",
+            "stars": 1472
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "CloudBrute",
+          "description": "Awesome cloud enumerator",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2025-03-09T17:48:52Z",
+            "owner": "0xsha",
+            "repo": "CloudBrute",
+            "stars": 1144
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "CloudScraper",
+          "description": "CloudScraper: Tool to enumerate targets in search of cloud resources. S3 Buckets, Azure Blobs, Digital Ocean Storage Space.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2022-03-07T21:05:37Z",
+            "owner": "jordanpotti",
+            "repo": "CloudScraper",
+            "stars": 537
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "s3tk",
+          "description": "A security toolkit for Amazon S3",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-06-29T20:22:43Z",
+            "owner": "ankane",
+            "repo": "s3tk",
+            "stars": 459
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "s3viewer",
+          "description": "Publicly Open Amazon AWS S3 Bucket Viewer",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2023-10-11T05:38:39Z",
+            "owner": "SharonBrizinov",
+            "repo": "s3viewer",
+            "stars": 448
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "festin",
+          "description": "FestIn - S3 Bucket Weakness Discovery",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2020-12-04T09:31:35Z",
+            "owner": "cr0hn",
+            "repo": "festin",
+            "stars": 233
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "S3BucketList",
+          "description": "Firefox plugin that lists Amazon S3 Buckets found in requests",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-03-30T13:00:41Z",
+            "owner": "AlecBlance",
+            "repo": "S3BucketList",
+            "stars": 132
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "s3dns",
+          "description": "Passive DNS-based discovery of S3 (and other cloud) buckets by resolving CNAMEs and IPs during recon—ideal for stealthy and early identification of cloud storage exposures",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-10T07:55:32Z",
+            "owner": "olizimmermann",
+            "repo": "s3dns",
+            "stars": 128
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "s3reverse",
+          "description": "The format of various s3 buckets is convert in one format. for bugbounty and security testing.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2023-05-06T07:37:24Z",
+            "owner": "hahwul",
+            "repo": "s3reverse",
+            "stars": 90
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "s3_objects_check",
+          "description": "Whitebox evaluation of effective S3 object permissions, to identify publicly accessible files.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2022-03-04T18:02:44Z",
+            "owner": "nccgroup",
+            "repo": "s3_objects_check",
+            "stars": 77
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "S3Cruze",
+          "description": "All-in-one AWS S3 bucket tool for pentesters.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2019-02-16T07:36:18Z",
+            "owner": "JR0ch17",
+            "repo": "S3Cruze",
+            "stars": 74
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "mass-s3-bucket-tester",
+          "description": "This tests a list of s3 buckets to see if they have dir listings enabled or if they are uploadable",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-12-10T16:21:47Z",
+            "owner": "random-robbie",
+            "repo": "mass-s3-bucket-tester",
+            "stars": 54
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "dirlstr",
+          "description": "Finds Directory Listings or open S3 buckets from a list of URLs",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2021-12-01T20:51:48Z",
+            "owner": "cybercdh",
+            "repo": "dirlstr",
+            "stars": 52
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Burp-AnonymousCloud",
+          "description": "Burp extension that performs a passive scan to identify cloud buckets and then test them for publicly accessible vulnerabilities",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2023-01-11T21:25:31Z",
+            "owner": "codewatchorg",
+            "repo": "Burp-AnonymousCloud",
+            "stars": 48
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "kicks3",
+          "description": "S3 bucket finder from html,js and bucket misconfiguration testing tool",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Python",
+            "last_commit": "2020-02-10T12:20:00Z",
+            "owner": "abuvanth",
+            "repo": "kicks3",
+            "stars": 34
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "s3cario",
+          "description": "This tool will get the CNAME first if it's a valid Amazon s3 bucket and if it's not, it will try to check if the domain is a bucket name.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2021-05-03T09:24:01Z",
+            "owner": "0xspade",
+            "repo": "s3cario",
+            "stars": 16
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "2tearsinabucket",
+          "description": "Enumerate s3 buckets for a specific target.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2020-04-22T00:35:35Z",
+            "owner": "Revenant40",
+            "repo": "2tearsinabucket",
+            "stars": 10
+          }
+        }
+      ],
+      "title": "Buckets"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "wpscan",
+          "description": "WPScan is a free, for non-commercial use, black box WordPress security scanner",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Ruby",
+            "last_commit": "2026-07-23T15:18:09Z",
+            "owner": "wpscanteam",
+            "repo": "wpscan",
+            "stars": 9732
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "joomscan",
+          "description": "OWASP Joomla Vulnerability Scanner Project",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Raku",
+            "last_commit": "2024-09-11T09:08:50Z",
+            "owner": "OWASP",
+            "repo": "joomscan",
+            "stars": 1191
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "CMSmap",
+          "description": "CMSmap is a python open source CMS scanner that automates the process of detecting security flaws of the most popular CMSs.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2021-12-01T05:48:48Z",
+            "owner": "dionach",
+            "repo": "CMSmap",
+            "stars": 1176
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "aemhacker",
+          "description": "Tools to identify vulnerable Adobe Experience Manager (AEM) webapps.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-07-28T16:15:08Z",
+            "owner": "0ang3el",
+            "repo": "aem-hacker",
+            "stars": 813
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "pyfiscan",
+          "description": "Free web-application vulnerability and version scanner",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-09T16:55:19Z",
+            "owner": "fgeek",
+            "repo": "pyfiscan",
+            "stars": 576
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "aemscan",
+          "description": "Adobe Experience Manager Vulnerability Scanner",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2023-05-22T21:34:42Z",
+            "owner": "Raz0r",
+            "repo": "aemscan",
+            "stars": 187
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "WPSpider",
+          "description": "A centralized dashboard for running and scheduling WordPress scans powered by wpscan utility.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "HTML",
+            "last_commit": "2020-02-23T15:27:02Z",
+            "owner": "cyc10n3",
+            "repo": "WPSpider",
+            "stars": 76
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Temodar Agent",
+          "description": "AI-powered WordPress plugin/theme security analysis platform with Semgrep-based static analysis and agent-assisted investigation workflows",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-07-03T03:23:55Z",
+            "owner": "xeloxa",
+            "repo": "temodar-agent",
+            "stars": 59
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "wprecon",
+          "description": "Wordpress Recon",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-06-05T16:35:32Z",
+            "owner": "ffx64",
+            "repo": "wprecon",
+            "stars": 20
+          }
+        }
+      ],
+      "title": "CMS"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "jwt_tool",
+          "description": "A toolkit for testing, tweaking and cracking JSON Web Tokens",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-05-01T11:57:50Z",
+            "owner": "ticarpi",
+            "repo": "jwt_tool",
+            "stars": 6738
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "c-jwt-cracker",
+          "description": "JWT brute force cracker written in C",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2023-06-02T20:46:11Z",
+            "owner": "brendan-rius",
+            "repo": "c-jwt-cracker",
+            "stars": 2558
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "jwt-cracker",
+          "description": "Simple HS256 JWT token brute force cracker",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2024-07-13T23:31:35Z",
+            "owner": "lmammino",
+            "repo": "jwt-cracker",
+            "stars": 1179
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "jwt-hack",
+          "description": "jwt-hack is tool for hacking / security testing to JWT.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-08-09T01:33:50Z",
+            "owner": "hahwul",
+            "repo": "jwt-hack",
+            "stars": 1014
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "jwt-heartbreaker",
+          "description": "The Burp extension to check JWT (JSON Web Tokens) for using keys from known from public sources",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2020-09-21T07:43:42Z",
+            "owner": "wallarm",
+            "repo": "jwt-heartbreaker",
+            "stars": 142
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "jwtear",
+          "description": "Modular command-line tool to parse, create and manipulate JWT tokens for hackers",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Ruby",
+            "last_commit": "2023-03-17T05:29:08Z",
+            "owner": "KINGSABRI",
+            "repo": "jwtear",
+            "stars": 104
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "jwt-key-id-injector",
+          "description": "Simple python script to check against hypothetical JWT vulnerability.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2020-11-29T18:14:20Z",
+            "owner": "dariusztytko",
+            "repo": "jwt-key-id-injector",
+            "stars": 51
+          }
+        }
+      ],
+      "title": "JSON Web Token"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "postMessage-tracker",
+          "description": "A Chrome Extension to track postMessage usage (url, domain and stack) both by logging using CORS and also visually as an extension-icon",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2024-01-26T17:48:33Z",
+            "owner": "fransr",
+            "repo": "postMessage-tracker",
+            "stars": 1333
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "PostMessage_Fuzz_Tool",
+          "description": "#BugBounty #BugBounty Tools #WebDeveloper Tool",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2025-05-17T19:15:36Z",
+            "owner": "kiranreddyrebel",
+            "repo": "PostMessage_Fuzz_Tool",
+            "stars": 38
+          }
+        }
+      ],
+      "title": "postMessage"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "can-i-take-over-xyz",
+          "description": "\"Can I take over XYZ?\" — a list of services and how to claim (sub)domains with dangling DNS records.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-02-08T01:51:50Z",
+            "owner": "EdOverflow",
+            "repo": "can-i-take-over-xyz",
+            "stars": 5782
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "dnsReaper",
+          "description": "DNS Reaper is yet another sub-domain takeover tool, but with an emphasis on accuracy, speed and the number of signatures in our arsenal!",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-10-06T10:58:46Z",
+            "owner": "punk-security",
+            "repo": "dnsReaper",
+            "stars": 2213
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "subjack",
+          "description": "Subdomain Takeover tool written in Go",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-07-03T16:34:48Z",
+            "owner": "haccer",
+            "repo": "subjack",
+            "stars": 2108
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "subzy",
+          "description": "Subdomain takeover tool which works based on matching response fingerprints from .",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2024-09-10T13:59:44Z",
+            "owner": "PentestPad",
+            "repo": "subzy",
+            "stars": 1586
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "SubOver",
+          "description": "A Powerful Subdomain Takeover Tool",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2023-10-17T19:35:44Z",
+            "owner": "Ice3man543",
+            "repo": "SubOver",
+            "stars": 968
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "tko-subs",
+          "description": "A tool that can help detect and takeover subdomains with dead DNS records",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2021-01-03T05:14:28Z",
+            "owner": "anshumanbh",
+            "repo": "tko-subs",
+            "stars": 776
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "HostileSubBruteforcer",
+          "description": "This app will bruteforce for existing subdomains and provide information if the 3rd party host has been properly setup.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Ruby",
+            "last_commit": "2021-01-29T11:04:46Z",
+            "owner": "nahamsec",
+            "repo": "HostileSubBruteforcer",
+            "stars": 483
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "second-order",
+          "description": "Second-order subdomain takeover scanner",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-03-29T18:56:24Z",
+            "owner": "mhmdiaa",
+            "repo": "second-order",
+            "stars": 407
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "autoSubTakeover",
+          "description": "A tool used to check if a CNAME resolves to the scope address. If the CNAME resolves to a non-scope address it might be worth checking out if subdomain takeover is possible.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2023-08-14T22:07:22Z",
+            "owner": "JordyZomer",
+            "repo": "autoSubTakeover",
+            "stars": 136
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "NSBrute",
+          "description": "Python utility to takeover domains vulnerable to AWS NS Takeover",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2023-02-02T02:29:58Z",
+            "owner": "shivsahni",
+            "repo": "NSBrute",
+            "stars": 86
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "takeover",
+          "description": "A tool for testing subdomain takeover possibilities at a mass scale.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2021-05-23T17:36:50Z",
+            "owner": "mzfr",
+            "repo": "takeover",
+            "stars": 50
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "cnames",
+          "description": "take a list of resolved subdomains and output any corresponding CNAMES en masse.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-01-29T13:03:37Z",
+            "owner": "cybercdh",
+            "repo": "cnames",
+            "stars": 18
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "subHijack",
+          "description": "Hijacking forgotten & misconfigured subdomains",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Perl",
+            "last_commit": "2019-08-15T09:08:28Z",
+            "owner": "vavkamil",
+            "repo": "old-repos-backup",
+            "stars": 9
+          }
+        }
+      ],
+      "title": "Subdomain Takeover"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "metasploit-framework",
+          "description": "Metasploit Framework",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Ruby",
+            "last_commit": "2026-08-12T14:23:44Z",
+            "owner": "rapid7",
+            "repo": "metasploit-framework",
+            "stars": 38797
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "nuclei",
+          "description": "Nuclei is a fast tool for configurable targeted scanning based on templates offering massive extensibility and ease of use.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-08-11T22:50:57Z",
+            "owner": "projectdiscovery",
+            "repo": "nuclei",
+            "stars": 30486
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "OWASP ZAP",
+          "description": "World’s most popular free web security tools and is actively maintained by a dedicated international team of volunteers",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2026-08-13T08:21:53Z",
+            "owner": "zaproxy",
+            "repo": "zaproxy",
+            "stars": 15589
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "nuclei-templates",
+          "description": "Community curated list of templates for the nuclei engine to find security vulnerabilities.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-08-13T12:31:08Z",
+            "owner": "projectdiscovery",
+            "repo": "nuclei-templates",
+            "stars": 12797
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Sn1per",
+          "description": "Automated pentest framework for offensive security experts",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Shell",
+            "last_commit": "2026-07-04T21:10:21Z",
+            "owner": "1N3",
+            "repo": "Sn1per",
+            "stars": 10761
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "nikto",
+          "description": "Nikto web server scanner",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Perl",
+            "last_commit": "2026-07-31T16:46:27Z",
+            "owner": "sullo",
+            "repo": "nikto",
+            "stars": 10646
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Osmedeus",
+          "description": "Fully automated offensive security framework for reconnaissance and vulnerability scanning",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-08-08T14:26:33Z",
+            "owner": "j3ssie",
+            "repo": "osmedeus",
+            "stars": 6518
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "flan",
+          "description": "A pretty sweet vulnerability scanner",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Python",
+            "last_commit": "2026-04-23T22:36:51Z",
+            "owner": "cloudflare",
+            "repo": "flan",
+            "stars": 4168
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "retire.js",
+          "description": "scanner detecting the use of JavaScript libraries with known vulnerabilities",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-08-08T05:17:29Z",
+            "owner": "RetireJS",
+            "repo": "retire.js",
+            "stars": 4159
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "arachni",
+          "description": "Web Application Security Scanner Framework",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Ruby",
+            "last_commit": "2026-04-22T10:43:49Z",
+            "owner": "Arachni",
+            "repo": "arachni",
+            "stars": 4039
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "cariddi",
+          "description": "Take a list of domains, crawl urls and scan for endpoints, secrets, api keys, file extensions, tokens and more...",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-07-15T13:49:06Z",
+            "owner": "edoardottt",
+            "repo": "cariddi",
+            "stars": 3694
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "jaeles",
+          "description": "The Swiss Army knife for automated Web Application Testing",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-06-20T12:53:44Z",
+            "owner": "jaeles-project",
+            "repo": "jaeles",
+            "stars": 2365
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Findsploit",
+          "description": "Find exploits in local and online databases instantly",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Shell",
+            "last_commit": "2021-09-27T01:43:24Z",
+            "owner": "1N3",
+            "repo": "Findsploit",
+            "stars": 1843
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "BlackWidow",
+          "description": "A Python based web application scanner to gather OSINT and fuzz for OWASP vulnerabilities on a target website.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-04-17T12:35:56Z",
+            "owner": "1N3",
+            "repo": "BlackWidow",
+            "stars": 1820
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "getsploit",
+          "description": "Command line utility for searching and downloading exploits",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-09-10T08:22:23Z",
+            "owner": "vulnersCom",
+            "repo": "getsploit",
+            "stars": 1810
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "SSTImap",
+          "description": "SSTImap is a penetration testing software that can check websites for Code Injection and Server-Side Template Injection vulnerabilities and exploit them, giving access to the operating system itself.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-04-25T23:35:31Z",
+            "owner": "vladko312",
+            "repo": "SSTImap",
+            "stars": 1604
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Lonkero",
+          "description": "Enterprise-grade web vulnerability scanner with 60+ attack modules, built in Rust for penetration testing and security assessments.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-08-13T06:40:43Z",
+            "owner": "bountyyfi",
+            "repo": "lonkero",
+            "stars": 1038
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Vigolium",
+          "description": "High-fidelity vulnerability scanner fusing agentic AI with native speed, modularity, and precision",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-08-13T02:47:00Z",
+            "owner": "vigolium",
+            "repo": "vigolium",
+            "stars": 979
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "backslash-powered-scanner",
+          "description": "Finds unknown classes of injection vulnerabilities",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2025-04-30T10:46:54Z",
+            "owner": "PortSwigger",
+            "repo": "backslash-powered-scanner",
+            "stars": 714
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "OWASP PTK",
+          "description": "Browser-based vulnerability scanner for bug bounty and pentesting workflows, combining DAST, SAST, IAST, and SCA capabilities to detect runtime, source-level, interactive, and dependency-related security issues.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-08-09T13:30:55Z",
+            "owner": "DenisPodgurskii",
+            "repo": "pentestkit",
+            "stars": 229
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Eagle",
+          "description": "Multithreaded Plugin based vulnerability scanner for mass detection of web-based applications vulnerabilities",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2023-06-04T18:53:26Z",
+            "owner": "BitTheByte",
+            "repo": "Eagle",
+            "stars": 128
+          }
+        }
+      ],
+      "title": "Vulnerability Scanners"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "altdns",
+          "description": "Generates permutations, alterations and mutations of subdomains and then resolves them.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-01-09T04:24:27Z",
+            "owner": "infosec-au",
+            "repo": "altdns",
+            "stars": 2504
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "dnsgen",
+          "description": "DNSGen is a powerful and flexible DNS name permutation tool designed for security researchers and penetration testers. It generates intelligent domain name variations to assist in subdomain discovery and security assessments.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-01-03T20:34:39Z",
+            "owner": "AlephNullSK",
+            "repo": "dnsgen",
+            "stars": 1076
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "alterx",
+          "description": "Fast and customizable subdomain wordlist generator using DSL. alterx takes patterns as input and generates subdomain permutation wordlist based on that pattern.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-07-10T17:32:13Z",
+            "owner": "projectdiscovery",
+            "repo": "alterx",
+            "stars": 989
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "gotator",
+          "description": "Gotator is a tool to generate DNS wordlists through permutations.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2022-07-17T13:10:41Z",
+            "owner": "Josue87",
+            "repo": "gotator",
+            "stars": 530
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ripgen",
+          "description": "Rust-based high performance domain permutation generator.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2023-12-02T22:57:22Z",
+            "owner": "resyncgg",
+            "repo": "ripgen",
+            "stars": 306
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "goaltdns",
+          "description": "A permutation generation tool written in golang.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2019-07-15T07:08:47Z",
+            "owner": "subfinder",
+            "repo": "goaltdns",
+            "stars": 213
+          }
+        }
+      ],
+      "title": "Permutation"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "mitmproxy",
+          "description": "An interactive TLS-capable intercepting HTTP proxy for penetration testers and software developers.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-08T06:07:53Z",
+            "owner": "mitmproxy",
+            "repo": "mitmproxy",
+            "stars": 44678
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "zaproxy",
+          "description": "ZAP is what is known as a “manipulator-in-the-middle proxy.” It stands between the tester’s browser and the web application so that it can intercept and inspect messages sent between browser and web application, modify the contents if needed, and then forward those packets on to the destination.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2026-08-13T08:21:53Z",
+            "owner": "zaproxy",
+            "repo": "zaproxy",
+            "stars": 15589
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "proxify",
+          "description": "A versatile and portable proxy for capturing, manipulating, and replaying HTTP/HTTPS traffic on the go.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-08-10T09:04:29Z",
+            "owner": "projectdiscovery",
+            "repo": "proxify",
+            "stars": 3060
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "FoxyProxy Browser Extension",
+          "description": "FoxyProxy is an open-source, advanced proxy management tool that completely replaces Chrome's limited proxying capabilities.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-08-13T02:43:34Z",
+            "owner": "foxyproxy",
+            "repo": "browser-extension",
+            "stars": 507
+          }
+        }
+      ],
+      "title": "Web Proxy and Traffic Interception"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "hakoriginfinder",
+          "description": "Tool for discovering the origin host behind a reverse proxy. Useful for bypassing WAFs and other reverse proxies.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-08-05T04:05:44Z",
+            "owner": "hakluke",
+            "repo": "hakoriginfinder",
+            "stars": 1100
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "CloudRip",
+          "description": "A tool that helps you find the real IP addresses hiding behind Cloudflare by checking subdomains.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-07-06T03:42:06Z",
+            "owner": "moscovium-mc",
+            "repo": "CloudRip",
+            "stars": 640
+          }
+        }
+      ],
+      "title": "Origin IP"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "CyberChef",
+          "description": "The Cyber Swiss Army Knife - a web app for encryption, encoding, compression and data analysis",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-08-07T02:09:33Z",
+            "owner": "gchq",
+            "repo": "CyberChef",
+            "stars": 35572
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "interactsh",
+          "description": "Interactsh is an open-source tool for detecting out-of-band interactions. It is a tool designed to detect vulnerabilities that cause external interactions.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-08-10T10:19:38Z",
+            "owner": "projectdiscovery",
+            "repo": "interactsh",
+            "stars": 4479
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "gf",
+          "description": "A wrapper around grep, to help you grep for things",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2024-06-08T11:35:23Z",
+            "owner": "tomnomnom",
+            "repo": "gf",
+            "stars": 2138
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "anew",
+          "description": "A tool for adding new lines to files, skipping duplicates",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2024-01-12T01:06:36Z",
+            "owner": "tomnomnom",
+            "repo": "anew",
+            "stars": 1652
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "notify",
+          "description": "Notify is a Go-based assistance package that enables you to stream the output of several tools (or read from a file) and publish it to a variety of supported platforms.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-08-10T23:43:01Z",
+            "owner": "projectdiscovery",
+            "repo": "notify",
+            "stars": 1605
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "uro",
+          "description": "declutters url lists for crawling/pentesting",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-02-23T11:53:31Z",
+            "owner": "s0md3v",
+            "repo": "uro",
+            "stars": 1584
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "unfurl",
+          "description": "Pull out bits of URLs provided on stdin",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2023-08-12T04:13:27Z",
+            "owner": "tomnomnom",
+            "repo": "unfurl",
+            "stars": 1332
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "qsreplace",
+          "description": "Accept URLs on stdin, replace all query string values with a user-supplied value",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2022-11-23T15:42:28Z",
+            "owner": "tomnomnom",
+            "repo": "qsreplace",
+            "stars": 884
+          }
+        }
+      ],
+      "title": "Useful"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "shannon",
+          "description": "Fully autonomous AI hacker to find actual exploits in your web apps.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-12T09:37:58Z",
+            "owner": "KeygraphHQ",
+            "repo": "shannon",
+            "stars": 46760
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "PentestGPT",
+          "description": "AI-powered penetration testing assistant that helps automate security testing workflows and vulnerability discovery.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-07-14T12:58:31Z",
+            "owner": "GreyDGL",
+            "repo": "PentestGPT",
+            "stars": 14828
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Darkmoon",
+          "description": "Open source (GPL-3.0) autonomous AI penetration testing platform that orchestrates 80+ tools over MCP with dedicated per-technology offensive sub-agents (GraphQL, Spring Boot, ASP.NET, Node.js, Flask, PHP, Ruby) and a per-finding evidence trail.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-06T15:05:32Z",
+            "owner": "ASCIT31",
+            "repo": "Dark-Moon",
+            "stars": 834
+          }
+        }
+      ],
+      "title": "AI Agents"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "PayloadsAllTheThings",
+          "description": "A list of useful payloads and bypass for Web Application Security and Pentest/CTF",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-09T13:38:47Z",
+            "owner": "swisskyrepo",
+            "repo": "PayloadsAllTheThings",
+            "stars": 80003
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "SecLists",
+          "description": "It's a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2026-08-13T11:20:40Z",
+            "owner": "danielmiessler",
+            "repo": "SecLists",
+            "stars": 72819
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "android-security-awesome",
+          "description": "A collection of android security related resources",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Makefile",
+            "last_commit": "2026-08-10T06:52:34Z",
+            "owner": "ashishb",
+            "repo": "android-security-awesome",
+            "stars": 9604
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "bounty-targets-data",
+          "description": "This repo contains hourly-updated data dumps of bug bounty platform scopes (like Hackerone/Bugcrowd/Intigriti/etc) that are eligible for reports",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2026-08-12T12:34:43Z",
+            "owner": "arkadiyt",
+            "repo": "bounty-targets-data",
+            "stars": 3893
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "awesome-mobile-security",
+          "description": "An effort to build a single place for all useful android and iOS security related stuff.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2024-03-01T10:39:44Z",
+            "owner": "vaib25vicky",
+            "repo": "awesome-mobile-security",
+            "stars": 3522
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "cvemap",
+          "description": "Modern CLI for exploring vulnerability data with powerful search, filtering, and analysis capabilities.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-08-10T11:22:59Z",
+            "owner": "projectdiscovery",
+            "repo": "vulnx",
+            "stars": 2619
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ds_store_exp",
+          "description": "A .DS_Store file disclosure exploit. It parses .DS_Store file and downloads files recursively.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2023-05-06T20:37:03Z",
+            "owner": "lijiejie",
+            "repo": "ds_store_exp",
+            "stars": 1739
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "BigBountyRecon",
+          "description": "BigBountyRecon tool utilises 58 different techniques using various Google dorks and open source tools to expedite the process of initial reconnaissance on the target organisation.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2021-01-29T21:44:06Z",
+            "owner": "Viralmaniar",
+            "repo": "BigBountyRecon",
+            "stars": 1562
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "awesome-vulnerable-apps",
+          "description": "Awesome Vulnerable Applications",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2026-06-15T08:31:49Z",
+            "owner": "vavkamil",
+            "repo": "awesome-vulnerable-apps",
+            "stars": 1464
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "mapcidr",
+          "description": "Utility program to perform multiple operations for a given subnet/CIDR ranges.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-08-10T21:39:59Z",
+            "owner": "projectdiscovery",
+            "repo": "mapcidr",
+            "stars": 1221
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "asnmap",
+          "description": "Go CLI and Library for quickly mapping organization network ranges using ASN information.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-08-05T10:04:21Z",
+            "owner": "projectdiscovery",
+            "repo": "asnmap",
+            "stars": 1116
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Bypass bot detection",
+          "description": "Burp Suite extension that mutates ciphers to bypass TLS-fingerprint based bot detection.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2025-09-09T09:02:05Z",
+            "owner": "PortSwigger",
+            "repo": "bypass-bot-detection",
+            "stars": 498
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "bountyplz",
+          "description": "Automated security reporting from markdown templates (HackerOne and Bugcrowd are currently the platforms supported)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Shell",
+            "last_commit": "2019-05-10T07:28:08Z",
+            "owner": "fransr",
+            "repo": "bountyplz",
+            "stars": 463
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "RF Swift",
+          "description": "A powerful multi-platform RF toolbox that deploys specialized radio tools in seconds on Linux, Windows, and macOS—supporting x86_64, ARM64 (Raspberry Pi, Apple Silicon), and RISC-V architectures without disrupting your primary OS.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-08-12T13:46:56Z",
+            "owner": "PentHertz",
+            "repo": "RF-Swift",
+            "stars": 364
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "cut-cdn",
+          "description": "Removing CDN IPs from the list of IP addresses.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2025-07-22T06:13:47Z",
+            "owner": "ImAyrix",
+            "repo": "cut-cdn",
+            "stars": 351
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ARS3NAL",
+          "description": "Offline-first, searchable arsenal for pentest & bug bounty: ~1500 payloads, a click-to-build command generator, GTFOBins, wordlists, an embedded CyberChef, reverse shells and 70 checklists. Self-hosted web app with a live static demo.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "CSS",
+            "last_commit": "2026-07-09T16:10:59Z",
+            "owner": "inflictx",
+            "repo": "Arsenal",
+            "stars": 166
+          }
+        }
+      ],
+      "title": "Uncategorized"
+    },
+    {
+      "description": "Contributions welcome! Read the contribution guidelines first.",
+      "items": [],
+      "title": "Contribute"
+    },
+    {
+      "description": "To the extent possible under law, vavkamil has waived all copyright and related or neighboring rights to this work.",
+      "items": [],
+      "title": "License"
+    }
+  ],
+  "metadata": {
+    "last_updated": "2026-08-13T12:33:51.622Z",
+    "original_repository": "vavkamil/awesome-bugbounty-tools",
+    "original_repository_sha": "32978b2b153005b1b6656b4bda0aa9fd834674d0",
+    "enhanced_repository": "enhansome/enhansome-bugbounty-tools",
+    "enhanced_repository_description": null,
+    "title": "Awesome Bug Bounty Tools with stars"
+  }
+}
