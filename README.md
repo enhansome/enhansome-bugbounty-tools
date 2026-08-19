@@ -64,7 +64,7 @@
 * [Amass](https://github.com/OWASP/Amass) ⭐ 14,994 | 🐛 237 | 🌐 Go | 📅 2026-07-19 - In-depth Attack Surface Mapping and Asset Discovery
 * [subfinder](https://github.com/projectdiscovery/subfinder) ⭐ 14,231 | 🐛 8 | 🌐 Go | 📅 2026-08-12 - Subfinder is a subdomain discovery tool that discovers valid subdomains for websites.
 * [Sublist3r](https://github.com/aboul3la/Sublist3r) ⭐ 11,021 | 🐛 253 | 🌐 Python | 📅 2024-08-02 - Fast subdomains enumeration tool for penetration testers
-* [bbot](https://github.com/blacklanternsecurity/bbot) ⭐ 10,454 | 🐛 36 | 🌐 Python | 📅 2026-08-18 - A recursive internet scanner for hackers
+* [bbot](https://github.com/blacklanternsecurity/bbot) ⭐ 10,455 | 🐛 36 | 🌐 Python | 📅 2026-08-18 - A recursive internet scanner for hackers
 * [knock](https://github.com/guelfoweb/knock) ⭐ 4,180 | 🐛 71 | 🌐 Python | 📅 2026-02-19 - Knockpy is a python tool designed to enumerate subdomains on a target domain through a wordlist.
 * [Findomain](https://github.com/Findomain/Findomain) ⭐ 3,783 | 🐛 24 | 🌐 Rust | 📅 2026-07-28 - The fastest and cross-platform subdomain enumerator, do not waste your time.
 * [assetfinder](https://github.com/tomnomnom/assetfinder) ⭐ 3,662 | 🐛 43 | 🌐 Go | 📅 2024-06-07 - Find domains and subdomains related to a given domain
@@ -201,7 +201,7 @@
 * [wfuzz](https://github.com/xmendez/wfuzz) ⭐ 6,555 | 🐛 117 | 🌐 Python | 📅 2026-01-21 - Web application fuzzer
 * [IntruderPayloads](https://github.com/1N3/IntruderPayloads) ⭐ 3,970 | 🐛 4 | 🌐 BlitzBasic | 📅 2021-09-27 - A collection of Burpsuite Intruder payloads, BurpBounty payloads, fuzz lists, malicious file uploads and web pentesting methodologies and checklists.
 * [fuzz.txt](https://github.com/Bo0oM/fuzz.txt) ⭐ 3,319 | 🐛 8 | 📅 2026-07-28 - Potentially dangerous files
-* [fuzzilli](https://github.com/googleprojectzero/fuzzilli) ⭐ 2,332 | 🐛 75 | 🌐 Swift | 📅 2026-08-19 - A JavaScript Engine Fuzzer
+* [fuzzilli](https://github.com/googleprojectzero/fuzzilli) ⭐ 2,332 | 🐛 74 | 🌐 Swift | 📅 2026-08-19 - A JavaScript Engine Fuzzer
 * [fuzzapi](https://github.com/Fuzzapi/fuzzapi) ⚠️ Archived - Fuzzapi is a tool used for REST API pentesting and uses API\_Fuzzer gem
 * [vaf](https://github.com/d4rckh/vaf) ⭐ 319 | 🐛 5 | 🌐 Nim | 📅 2022-05-29 - very advanced (web) fuzzer written in Nim.
 * [qsfuzz](https://github.com/ameenmaali/qsfuzz) ⭐ 300 | 🐛 3 | 🌐 Go | 📅 2023-02-12 - qsfuzz (Query String Fuzz) allows you to build your own rules to fuzz query strings and easily identify vulnerabilities.
@@ -534,7 +534,7 @@
 ### Vulnerability Scanners
 
 * [metasploit-framework](https://github.com/rapid7/metasploit-framework) ⭐ 38,830 | 🐛 612 | 🌐 Ruby | 📅 2026-08-18 - Metasploit Framework
-* [nuclei](https://github.com/projectdiscovery/nuclei) ⭐ 30,598 | 🐛 106 | 🌐 Go | 📅 2026-08-17 - Nuclei is a fast tool for configurable targeted scanning based on templates offering massive extensibility and ease of use.
+* [nuclei](https://github.com/projectdiscovery/nuclei) ⭐ 30,599 | 🐛 106 | 🌐 Go | 📅 2026-08-17 - Nuclei is a fast tool for configurable targeted scanning based on templates offering massive extensibility and ease of use.
 * [OWASP ZAP](https://github.com/zaproxy/zaproxy) ⭐ 15,636 | 🐛 854 | 🌐 Java | 📅 2026-08-19 -  World’s most popular free web security tools and is actively maintained by a dedicated international team of volunteers
 * [nuclei-templates](https://github.com/projectdiscovery/nuclei-templates) ⭐ 12,813 | 🐛 126 | 🌐 JavaScript | 📅 2026-08-19 - Community curated list of templates for the nuclei engine to find security vulnerabilities.
 * [Sn1per](https://github.com/1N3/Sn1per) ⭐ 10,783 | 🐛 7 | 🌐 Shell | 📅 2026-07-04 - Automated pentest framework for offensive security experts
@@ -566,7 +566,7 @@
 
 ### Web Proxy and Traffic Interception
 
-* [mitmproxy](https://github.com/mitmproxy/mitmproxy) ⭐ 44,734 | 🐛 468 | 🌐 Python | 📅 2026-08-13 - An interactive TLS-capable intercepting HTTP proxy for penetration testers and software developers.
+* [mitmproxy](https://github.com/mitmproxy/mitmproxy) ⭐ 44,735 | 🐛 468 | 🌐 Python | 📅 2026-08-13 - An interactive TLS-capable intercepting HTTP proxy for penetration testers and software developers.
 * [zaproxy](https://github.com/zaproxy/zaproxy) ⭐ 15,636 | 🐛 854 | 🌐 Java | 📅 2026-08-19 - ZAP is what is known as a “manipulator-in-the-middle proxy.” It stands between the tester’s browser and the web application so that it can intercept and inspect messages sent between browser and web application, modify the contents if needed, and then forward those packets on to the destination.
 * [hetty](https://github.com/dstotijn/hetty) ⭐ 12,004 | 🐛 50 | 🌐 Go | 📅 2026-07-21 - hetty is a free opensource alternative to Burpsuite pro
 * [proxify](https://github.com/projectdiscovery/proxify) ⭐ 3,062 | 🐛 7 | 🌐 Go | 📅 2026-08-10 - A versatile and portable proxy for capturing, manipulating, and replaying HTTP/HTTPS traffic on the go.
@@ -579,7 +579,7 @@
 
 ### Useful
 
-* [CyberChef](https://github.com/gchq/CyberChef) ⭐ 35,609 | 🐛 555 | 🌐 JavaScript | 📅 2026-08-18 - The Cyber Swiss Army Knife - a web app for encryption, encoding, compression and data analysis
+* [CyberChef](https://github.com/gchq/CyberChef) ⭐ 35,609 | 🐛 554 | 🌐 JavaScript | 📅 2026-08-18 - The Cyber Swiss Army Knife - a web app for encryption, encoding, compression and data analysis
 * [interactsh](https://github.com/projectdiscovery/interactsh) ⭐ 4,494 | 🐛 14 | 🌐 Go | 📅 2026-08-10 - Interactsh is an open-source tool for detecting out-of-band interactions. It is a tool designed to detect vulnerabilities that cause external interactions.
 * [gf](https://github.com/tomnomnom/gf) ⭐ 2,138 | 🐛 55 | 🌐 Go | 📅 2024-06-08 -  A wrapper around grep, to help you grep for things
 * [anew](https://github.com/tomnomnom/anew) ⭐ 1,654 | 🐛 9 | 🌐 Go | 📅 2024-01-12 -  A tool for adding new lines to files, skipping duplicates
@@ -590,7 +590,7 @@
 
 ### AI Agents
 
-* [shannon](https://github.com/KeygraphHQ/shannon) ⭐ 46,931 | 🐛 31 | 🌐 TypeScript | 📅 2026-08-19 - Fully autonomous AI hacker to find actual exploits in your web apps.
+* [shannon](https://github.com/KeygraphHQ/shannon) ⭐ 46,932 | 🐛 31 | 🌐 TypeScript | 📅 2026-08-19 - Fully autonomous AI hacker to find actual exploits in your web apps.
 * [PentestGPT](https://github.com/GreyDGL/PentestGPT) ⭐ 14,953 | 🐛 68 | 🌐 Python | 📅 2026-07-14 - AI-powered penetration testing assistant that helps automate security testing workflows and vulnerability discovery.
 * [Darkmoon](https://github.com/ASCIT31/Dark-Moon) ⭐ 847 | 🐛 1 | 🌐 Python | 📅 2026-08-06 - Open source (GPL-3.0) autonomous AI penetration testing platform that orchestrates 80+ tools over MCP with dedicated per-technology offensive sub-agents (GraphQL, Spring Boot, ASP.NET, Node.js, Flask, PHP, Ruby) and a per-finding evidence trail.
 
@@ -599,7 +599,7 @@
 ## Uncategorized
 
 * [PayloadsAllTheThings](https://github.com/swisskyrepo/PayloadsAllTheThings) ⭐ 80,168 | 🐛 34 | 🌐 Python | 📅 2026-08-09 - A list of useful payloads and bypass for Web Application Security and Pentest/CTF
-* [SecLists](https://github.com/danielmiessler/SecLists) ⭐ 72,927 | 🐛 12 | 🌐 PHP | 📅 2026-08-19 - It's a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more.
+* [SecLists](https://github.com/danielmiessler/SecLists) ⭐ 72,928 | 🐛 12 | 🌐 PHP | 📅 2026-08-19 - It's a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more.
 * [android-security-awesome](https://github.com/ashishb/android-security-awesome) ⭐ 9,618 | 🐛 2 | 🌐 Makefile | 📅 2026-08-17 - A collection of android security related resources
 * [bounty-targets-data](https://github.com/arkadiyt/bounty-targets-data) ⭐ 3,905 | 🐛 0 | 📅 2026-08-19 - This repo contains hourly-updated data dumps of bug bounty platform scopes (like Hackerone/Bugcrowd/Intigriti/etc) that are eligible for reports
 * [awesome-mobile-security](https://github.com/vaib25vicky/awesome-mobile-security) ⭐ 3,524 | 🐛 13 | 📅 2024-03-01 - An effort to build a single place for all useful android and iOS security related stuff.
