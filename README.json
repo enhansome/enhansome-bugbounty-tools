@@ -17,7 +17,7 @@
                 "last_commit": "2026-07-19T05:16:40Z",
                 "owner": "owasp-amass",
                 "repo": "amass",
-                "stars": 15030
+                "stars": 15031
               }
             },
             {
@@ -32,7 +32,7 @@
                 "last_commit": "2026-08-22T18:49:23Z",
                 "owner": "projectdiscovery",
                 "repo": "subfinder",
-                "stars": 14288
+                "stars": 14289
               }
             },
             {
@@ -59,7 +59,7 @@
                 "archived": false,
                 "id": 468957086,
                 "language": "Python",
-                "last_commit": "2026-08-23T18:23:40Z",
+                "last_commit": "2026-08-24T13:51:21Z",
                 "owner": "blacklanternsecurity",
                 "repo": "bbot",
                 "stars": 10493
@@ -284,7 +284,7 @@
                 "archived": false,
                 "id": 261932070,
                 "language": "Go",
-                "last_commit": "2026-08-17T12:02:22Z",
+                "last_commit": "2026-08-24T12:02:39Z",
                 "owner": "projectdiscovery",
                 "repo": "chaos-client",
                 "stars": 879
@@ -669,7 +669,7 @@
                 "last_commit": "2026-08-24T03:00:06Z",
                 "owner": "nmap",
                 "repo": "nmap",
-                "stars": 13432
+                "stars": 13433
               }
             },
             {
@@ -681,7 +681,7 @@
                 "archived": false,
                 "id": 235320869,
                 "language": "Go",
-                "last_commit": "2026-08-24T09:42:15Z",
+                "last_commit": "2026-08-24T13:46:42Z",
                 "owner": "projectdiscovery",
                 "repo": "naabu",
                 "stars": 6200
@@ -811,7 +811,7 @@
                 "last_commit": "2026-08-23T10:51:59Z",
                 "owner": "feder-cr",
                 "repo": "invisible_playwright",
-                "stars": 1926
+                "stars": 1927
               }
             },
             {
@@ -905,7 +905,7 @@
                 "archived": false,
                 "id": 267713284,
                 "language": "Go",
-                "last_commit": "2026-08-24T10:29:01Z",
+                "last_commit": "2026-08-24T13:45:16Z",
                 "owner": "projectdiscovery",
                 "repo": "httpx",
                 "stars": 10315
@@ -1077,10 +1077,10 @@
                 "archived": false,
                 "id": 326228917,
                 "language": "Go",
-                "last_commit": "2026-08-17T12:24:10Z",
+                "last_commit": "2026-08-24T12:23:53Z",
                 "owner": "projectdiscovery",
                 "repo": "katana",
-                "stars": 17344
+                "stars": 17342
               }
             },
             {
@@ -1302,6 +1302,28 @@
           "children": [
             {
               "node_type": "item",
+              "title": "Hacker-Scoper",
+              "description": "CLI tool for filtering a mixed list of targets (URLs/IPs) according to the bug-bounty program's scope. The scope can be supplied manually, or it can also be detected automatically by just giving hacker-scoper the name of the targeted company. Hacker-Scoper supports IPs, URLs, wildcards, CIDR ranges, Nmap octet ranges, and even full Regex scopes.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 425381267,
+                "language": "Go",
+                "last_commit": "2026-07-03T06:16:46Z",
+                "owner": "ItsIgnacioPortal",
+                "repo": "Hacker-Scoper",
+                "stars": 77
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Content Filtering"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
               "title": "gau",
               "description": "Fetch known URLs from AlienVault's Open Threat Exchange, the Wayback Machine, and Common Crawl.",
               "children": [],
@@ -1327,7 +1349,7 @@
                 "last_commit": "2024-05-01T05:40:44Z",
                 "owner": "tomnomnom",
                 "repo": "waybackurls",
-                "stars": 4542
+                "stars": 4543
               }
             },
             {
@@ -1342,7 +1364,7 @@
                 "last_commit": "2024-04-13T09:53:27Z",
                 "owner": "GerbenJavado",
                 "repo": "LinkFinder",
-                "stars": 4437
+                "stars": 4438
               }
             },
             {
@@ -1357,7 +1379,7 @@
                 "last_commit": "2026-06-11T10:45:51Z",
                 "owner": "xnl-h4ck3r",
                 "repo": "waymore",
-                "stars": 2728
+                "stars": 2729
               }
             },
             {
@@ -1846,6 +1868,28 @@
           "children": [
             {
               "node_type": "item",
+              "title": "commix",
+              "description": "Automated All-in-One OS command injection and exploitation tool.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 32572504,
+                "language": "Python",
+                "last_commit": "2026-08-24T07:25:47Z",
+                "owner": "commixproject",
+                "repo": "commix",
+                "stars": 5821
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Command Injection"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
               "title": "Corsy",
               "description": "CORS Misconfiguration Scanner",
               "children": [],
@@ -1990,6 +2034,28 @@
           "description": null,
           "node_type": "group",
           "title": "CRLF Injection"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "XSRFProbe",
+              "description": "The Prime Cross Site Request Forgery (CSRF) Audit and Exploitation Toolkit.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 145513029,
+                "language": "Python",
+                "last_commit": "2026-07-12T07:07:02Z",
+                "owner": "0xInfection",
+                "repo": "XSRFProbe",
+                "stars": 1302
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "CSRF Injection"
         },
         {
           "children": [
@@ -2226,6 +2292,28 @@
           "children": [
             {
               "node_type": "item",
+              "title": "headi",
+              "description": "Customisable and automated HTTP header injection.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 322859400,
+                "language": "Go",
+                "last_commit": "2024-06-27T11:20:13Z",
+                "owner": "mlcsec",
+                "repo": "headi",
+                "stars": 296
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Header Injection"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
               "title": "ysoserial",
               "description": "A proof-of-concept tool for generating payloads that exploit unsafe Java object deserialization.",
               "children": [],
@@ -2236,7 +2324,7 @@
                 "last_commit": "2025-12-04T04:07:31Z",
                 "owner": "frohoff",
                 "repo": "ysoserial",
-                "stars": 9030
+                "stars": 9031
               }
             },
             {
@@ -2288,6 +2376,28 @@
           "description": null,
           "node_type": "group",
           "title": "Insecure Deserialization"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Autorize",
+              "description": "Automatic authorization enforcement detection extension for burp suite written in Jython developed by Barak Tawily",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 30739183,
+                "language": "Python",
+                "last_commit": "2026-03-21T06:00:34Z",
+                "owner": "Quitten",
+                "repo": "Autorize",
+                "stars": 1169
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Insecure Direct Object References"
         },
         {
           "children": [
@@ -3088,7 +3198,7 @@
                 "last_commit": "2026-07-08T13:15:18Z",
                 "owner": "ssl",
                 "repo": "ezXSS",
-                "stars": 2327
+                "stars": 2328
               }
             },
             {
@@ -3804,6 +3914,28 @@
           "children": [
             {
               "node_type": "item",
+              "title": "toxicache",
+              "description": "Go scanner to find web cache poisoning vulnerabilities in a list of URLs .",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 760431183,
+                "language": "Go",
+                "last_commit": "2024-02-21T06:35:30Z",
+                "owner": "xhzeem",
+                "repo": "toxicache",
+                "stars": 150
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Web-Cache-Poisoning"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
               "title": "nomore403",
               "description": "Advanced tool for security researchers to bypass 403/40X restrictions .",
               "children": [],
@@ -3814,7 +3946,7 @@
                 "last_commit": "2026-06-21T10:19:20Z",
                 "owner": "devploit",
                 "repo": "nomore403",
-                "stars": 1840
+                "stars": 1841
               }
             },
             {
@@ -3887,7 +4019,7 @@
                 "last_commit": "2026-07-30T10:11:35Z",
                 "owner": "vanhauser-thc",
                 "repo": "thc-hydra",
-                "stars": 12188
+                "stars": 12189
               }
             },
             {
@@ -3969,7 +4101,7 @@
                 "last_commit": "2026-08-19T04:15:06Z",
                 "owner": "gitleaks",
                 "repo": "gitleaks",
-                "stars": 28932
+                "stars": 28934
               }
             },
             {
@@ -3981,10 +4113,10 @@
                 "archived": false,
                 "id": 77726177,
                 "language": "Go",
-                "last_commit": "2026-08-24T02:46:05Z",
+                "last_commit": "2026-08-24T13:40:24Z",
                 "owner": "trufflesecurity",
                 "repo": "trufflehog",
-                "stars": 27568
+                "stars": 27569
               }
             },
             {
@@ -4393,7 +4525,7 @@
                 "archived": false,
                 "id": 844670429,
                 "language": "Rust",
-                "last_commit": "2026-08-23T22:28:18Z",
+                "last_commit": "2026-08-24T13:36:40Z",
                 "owner": "zizmorcore",
                 "repo": "zizmor",
                 "stars": 6379
@@ -4785,7 +4917,7 @@
                 "last_commit": "2026-08-20T09:03:17Z",
                 "owner": "wpscanteam",
                 "repo": "wpscan",
-                "stars": 9737
+                "stars": 9735
               }
             },
             {
@@ -5275,10 +5407,10 @@
                 "archived": false,
                 "id": 2293158,
                 "language": "Ruby",
-                "last_commit": "2026-08-24T01:29:12Z",
+                "last_commit": "2026-08-24T13:11:53Z",
                 "owner": "rapid7",
                 "repo": "metasploit-framework",
-                "stars": 38856
+                "stars": 38858
               }
             },
             {
@@ -5293,7 +5425,7 @@
                 "last_commit": "2026-08-24T08:59:31Z",
                 "owner": "projectdiscovery",
                 "repo": "nuclei",
-                "stars": 30757
+                "stars": 30758
               }
             },
             {
@@ -5320,7 +5452,7 @@
                 "archived": false,
                 "id": 253044228,
                 "language": "JavaScript",
-                "last_commit": "2026-08-24T11:30:52Z",
+                "last_commit": "2026-08-24T13:03:44Z",
                 "owner": "projectdiscovery",
                 "repo": "nuclei-templates",
                 "stars": 12832
@@ -5697,7 +5829,7 @@
                 "last_commit": "2026-08-22T09:33:08Z",
                 "owner": "mitmproxy",
                 "repo": "mitmproxy",
-                "stars": 44791
+                "stars": 44792
               }
             },
             {
@@ -5816,7 +5948,7 @@
                 "last_commit": "2026-08-21T02:06:22Z",
                 "owner": "gchq",
                 "repo": "CyberChef",
-                "stars": 35653
+                "stars": 35655
               }
             },
             {
@@ -5940,10 +6072,10 @@
                 "archived": false,
                 "id": 1065059442,
                 "language": "TypeScript",
-                "last_commit": "2026-08-21T17:21:11Z",
+                "last_commit": "2026-08-24T13:51:36Z",
                 "owner": "KeygraphHQ",
                 "repo": "shannon",
-                "stars": 47151
+                "stars": 47153
               }
             },
             {
@@ -5958,7 +6090,7 @@
                 "last_commit": "2026-07-14T12:58:31Z",
                 "owner": "GreyDGL",
                 "repo": "PentestGPT",
-                "stars": 15042
+                "stars": 15044
               }
             },
             {
@@ -5973,7 +6105,7 @@
                 "last_commit": "2026-08-23T15:48:25Z",
                 "owner": "ASCIT31",
                 "repo": "Dark-Moon",
-                "stars": 866
+                "stars": 867
               }
             }
           ],
@@ -5999,7 +6131,7 @@
             "last_commit": "2026-08-09T13:38:47Z",
             "owner": "swisskyrepo",
             "repo": "PayloadsAllTheThings",
-            "stars": 80318
+            "stars": 80322
           }
         },
         {
@@ -6014,7 +6146,7 @@
             "last_commit": "2026-08-24T11:12:01Z",
             "owner": "danielmiessler",
             "repo": "SecLists",
-            "stars": 73035
+            "stars": 73037
           }
         },
         {
@@ -6041,7 +6173,7 @@
             "archived": false,
             "id": 113006883,
             "language": null,
-            "last_commit": "2026-08-24T11:34:58Z",
+            "last_commit": "2026-08-24T13:34:56Z",
             "owner": "arkadiyt",
             "repo": "bounty-targets-data",
             "stars": 3912
@@ -6232,7 +6364,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T12:02:28.705Z",
+    "last_updated": "2026-08-24T13:52:20.864Z",
     "original_repository": "vavkamil/awesome-bugbounty-tools",
     "original_repository_id": 328770750,
     "original_repository_sha": "b49b741810172580d6de3d5aa816e2dabafa513b",
