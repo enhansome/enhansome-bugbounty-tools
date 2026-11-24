@@ -61,18 +61,18 @@
 
 ### Subdomain Enumeration
 
-* [Amass](https://github.com/OWASP/Amass) ⭐ 15,552 | 🐛 255 | 🌐 Go | 📅 2026-11-23 - In-depth Attack Surface Mapping and Asset Discovery
-* [subfinder](https://github.com/projectdiscovery/subfinder) ⭐ 14,851 | 🐛 4 | 🌐 Go | 📅 2026-11-23 - Subfinder is a subdomain discovery tool that discovers valid subdomains for websites.
-* [bbot](https://github.com/blacklanternsecurity/bbot) ⭐ 11,184 | 🐛 34 | 🌐 Python | 📅 2026-11-23 - A recursive internet scanner for hackers
+* [Amass](https://github.com/OWASP/Amass) ⭐ 15,554 | 🐛 255 | 🌐 Go | 📅 2026-11-24 - In-depth Attack Surface Mapping and Asset Discovery
+* [subfinder](https://github.com/projectdiscovery/subfinder) ⭐ 14,856 | 🐛 8 | 🌐 Go | 📅 2026-11-24 - Subfinder is a subdomain discovery tool that discovers valid subdomains for websites.
+* [bbot](https://github.com/blacklanternsecurity/bbot) ⭐ 11,192 | 🐛 36 | 🌐 Python | 📅 2026-11-24 - A recursive internet scanner for hackers
 * [Sublist3r](https://github.com/aboul3la/Sublist3r) ⭐ 11,101 | 🐛 254 | 🌐 Python | 📅 2024-08-02 - Fast subdomains enumeration tool for penetration testers
 * [knock](https://github.com/guelfoweb/knock) ⭐ 4,210 | 🐛 72 | 🌐 Python | 📅 2026-02-19 - Knockpy is a python tool designed to enumerate subdomains on a target domain through a wordlist.
-* [Findomain](https://github.com/Findomain/Findomain) ⭐ 3,835 | 🐛 9 | 🌐 Rust | 📅 2026-11-20 - The fastest and cross-platform subdomain enumerator, do not waste your time.
-* [assetfinder](https://github.com/tomnomnom/assetfinder) ⭐ 3,711 | 🐛 43 | 🌐 Go | 📅 2024-06-07 - Find domains and subdomains related to a given domain
+* [Findomain](https://github.com/Findomain/Findomain) ⭐ 3,839 | 🐛 9 | 🌐 Rust | 📅 2026-11-23 - The fastest and cross-platform subdomain enumerator, do not waste your time.
+* [assetfinder](https://github.com/tomnomnom/assetfinder) ⭐ 3,713 | 🐛 43 | 🌐 Go | 📅 2024-06-07 - Find domains and subdomains related to a given domain
 * [massdns](https://github.com/blechschmidt/massdns) ⭐ 3,669 | 🐛 14 | 🌐 C | 📅 2026-09-27 - A high-performance DNS stub resolver for bulk lookups and reconnaissance (subdomain enumeration)
-* [dnsx](https://github.com/projectdiscovery/dnsx) ⭐ 2,928 | 🐛 5 | 🌐 Go | 📅 2026-11-23 - Dnsx is a fast and multi-purpose DNS toolkit allow to run multiple DNS queries of your choice with a list of user-supplied resolvers.
+* [dnsx](https://github.com/projectdiscovery/dnsx) ⭐ 2,930 | 🐛 4 | 🌐 Go | 📅 2026-11-23 - Dnsx is a fast and multi-purpose DNS toolkit allow to run multiple DNS queries of your choice with a list of user-supplied resolvers.
 * [altdns](https://github.com/infosec-au/altdns) ⭐ 2,513 | 🐛 18 | 🌐 Python | 📅 2025-01-09 - Generates permutations, alterations and mutations of subdomains and then resolves them
 * [Sudomy](https://github.com/Screetsec/Sudomy) ⭐ 2,445 | 🐛 42 | 🌐 Shell | 📅 2024-06-27 - Sudomy is a subdomain enumeration tool to collect subdomains and analyzing domains performing automated reconnaissance (recon) for bug hunting / pentesting
-* [puredns](https://github.com/d3mondev/puredns) ⭐ 2,267 | 🐛 17 | 🌐 Go | 📅 2026-02-23 - Fast domain resolver and subdomain bruteforcing with accurate wildcard filtering with wildcard(\*)
+* [puredns](https://github.com/d3mondev/puredns) ⭐ 2,268 | 🐛 17 | 🌐 Go | 📅 2026-02-23 - Fast domain resolver and subdomain bruteforcing with accurate wildcard filtering with wildcard(\*)
 * [shuffledns](https://github.com/projectdiscovery/shuffledns) ⭐ 1,677 | 🐛 5 | 🌐 Go | 📅 2026-11-22 - shuffleDNS is a wrapper around massdns written in go that allows you to enumerate valid subdomains using active bruteforce as well as resolve subdomains with wildcard handling and easy input-output…
 * [hakrevdns](https://github.com/hakluke/hakrevdns) ⭐ 1,655 | 🐛 9 | 🌐 Go | 📅 2026-08-05 - Small, fast tool for performing reverse DNS lookups en masse.
 * [VHostScan](https://github.com/codingo/VHostScan) ⭐ 1,313 | 🐛 1 | 🌐 Python | 📅 2025-08-18 - A virtual host scanner that performs reverse lookups
@@ -81,7 +81,7 @@
 * [domain](https://github.com/jhaddix/domain/) ⭐ 944 | 🐛 20 | 🌐 Python | 📅 2020-11-17 - enumall.py Setup script for Regon-ng
 * [chaos-client](https://github.com/projectdiscovery/chaos-client) ⭐ 896 | 🐛 2 | 🌐 Go | 📅 2026-11-21 - Go client to communicate with Chaos DNS API.
 * [github-subdomains](https://github.com/gwen001/github-subdomains) ⭐ 877 | 🐛 10 | 🌐 Go | 📅 2023-03-28 - This Go tool performs searches on GitHub and parses the results to find subdomains of a given domain.
-* [censys-subdomain-finder](https://github.com/christophetd/censys-subdomain-finder) ⭐ 852 | 🐛 4 | 🌐 Python | 📅 2025-05-01 - Perform subdomain enumeration using the certificate transparency logs from Censys.
+* [censys-subdomain-finder](https://github.com/christophetd/censys-subdomain-finder) ⭐ 853 | 🐛 4 | 🌐 Python | 📅 2025-05-01 - Perform subdomain enumeration using the certificate transparency logs from Censys.
 * [subdominator](https://github.com/RevoltSecurities/Subdominator) ⭐ 813 | 🐛 4 | 🌐 Python | 📅 2026-10-07 - Fast and powerfull to enumerate subdomains (50+ passive results ).
 * [domained](https://github.com/TypeError/domained) ⚠️ Archived - Multi Tool Subdomain Enumeration
 * [cero](https://github.com/glebarez/cero) ⭐ 698 | 🐛 4 | 🌐 Go | 📅 2024-03-31 - Scrape domain names from SSL certificates of arbitrary hosts
@@ -89,7 +89,7 @@
 * [haktrails](https://github.com/hakluke/haktrails) ⭐ 602 | 🐛 1 | 🌐 Go | 📅 2026-01-21 - Golang client for querying SecurityTrails API data
 * [shosubgo](https://github.com/incogbyte/shosubgo) ⭐ 584 | 🐛 1 | 🌐 Go | 📅 2025-09-01 - Small tool to Grab subdomains using Shodan api
 * [sub3suite](https://github.com/3nock/sub3suite) ⚠️ Archived - A research-grade suite of tools for subdomain enumeration, intelligence gathering and attack surface mapping.
-* [csprecon](https://github.com/edoardottt/csprecon) ⭐ 569 | 🐛 4 | 🌐 Go | 📅 2026-11-23 - Discover new target domains using Content Security Policy
+* [csprecon](https://github.com/edoardottt/csprecon) ⭐ 569 | 🐛 1 | 🌐 Go | 📅 2026-11-24 - Discover new target domains using Content Security Policy
 * [hakip2host](https://github.com/hakluke/hakip2host) ⭐ 466 | 🐛 1 | 🌐 Go | 📅 2022-04-27 - hakip2host takes a list of IP addresses via stdin, then does a series of checks to return associated domain names.
 * [Turbolist3r](https://github.com/fleetcaptain/Turbolist3r) ⭐ 400 | 🐛 3 | 🌐 Python | 📅 2025-11-16 - Subdomain enumeration tool with analysis features for discovered domains
 * [brutesubs](https://github.com/anshumanbh/brutesubs) ⭐ 261 | 🐛 7 | 🌐 Shell | 📅 2021-08-22 - An automation framework for running multiple open sourced subdomain bruteforcing tools (in parallel) using your own wordlists via Docker Compose
@@ -100,15 +100,15 @@
 * [related-domains](https://github.com/gwen001/related-domains) ⭐ 106 | 🐛 1 | 🌐 Python | 📅 2026-06-05 - Find related domains of a given domain. this tool search for domains that have been registered by the same peoples/companies.
 * [gitlab-subdomains](https://github.com/gwen001/gitlab-subdomains) ⭐ 102 | 🐛 2 | 🌐 Go | 📅 2024-04-28 - This Go tool performs searches on GitLab and parses the results to find subdomains of a given domain.
 * [Substr3am](https://github.com/nexxai/Substr3am) ⭐ 67 | 🐛 0 | 🌐 Python | 📅 2022-10-11 - Passive reconnaissance/enumeration of interesting targets by watching for SSL certificates being issued
-* [Subra](https://github.com/si9int/Subra) ⭐ 53 | 🐛 0 | 🌐 HTML | 📅 2020-06-05 - A Web-UI for subdomain enumeration (subfinder)
+* [Subra](https://github.com/si9int/Subra) ⭐ 54 | 🐛 0 | 🌐 HTML | 📅 2020-06-05 - A Web-UI for subdomain enumeration (subfinder)
 * [crt.go](https://github.com/TaurusOmar/crt.sh) ⭐ 12 | 🐛 0 | 🌐 Go | 📅 2026-10-10 - This Go script simplifies the process of efficiently saving and analyzing subdomain output from the crt.sh website.
 
 ### Port Scanning
 
-* [masscan](https://github.com/robertdavidgraham/masscan) ⭐ 26,179 | 🐛 415 | 🌐 C | 📅 2026-10-05 - TCP port scanner, spews SYN packets asynchronously, scanning entire Internet in under 5 minutes.
-* [RustScan](https://github.com/RustScan/RustScan) ⭐ 20,801 | 🐛 21 | 🌐 Rust | 📅 2026-11-04 - The Modern Port Scanner
-* [nmap](https://github.com/nmap/nmap) ⭐ 14,074 | 🐛 721 | 🌐 C | 📅 2026-11-23 - Nmap - the Network Mapper. Github mirror of official SVN repository.
-* [naabu](https://github.com/projectdiscovery/naabu) ⭐ 6,394 | 🐛 3 | 🌐 Go | 📅 2026-11-23 - A fast port scanner written in go with focus on reliability and simplicity.
+* [masscan](https://github.com/robertdavidgraham/masscan) ⭐ 26,180 | 🐛 415 | 🌐 C | 📅 2026-10-05 - TCP port scanner, spews SYN packets asynchronously, scanning entire Internet in under 5 minutes.
+* [RustScan](https://github.com/RustScan/RustScan) ⭐ 20,807 | 🐛 21 | 🌐 Rust | 📅 2026-11-04 - The Modern Port Scanner
+* [nmap](https://github.com/nmap/nmap) ⭐ 14,081 | 🐛 719 | 🌐 C | 📅 2026-11-24 - Nmap - the Network Mapper. Github mirror of official SVN repository.
+* [naabu](https://github.com/projectdiscovery/naabu) ⭐ 6,401 | 🐛 4 | 🌐 Go | 📅 2026-11-24 - A fast port scanner written in go with focus on reliability and simplicity.
 * [sandmap](https://github.com/trimstray/sandmap) ⭐ 1,873 | 🐛 13 | 🌐 Shell | 📅 2024-11-19 - Nmap on steroids. Simple CLI with the ability to run pure Nmap engine, 31 modules with 459 scan profiles.
 * [ScanCannon](https://github.com/johnnyxmas/ScanCannon) ⭐ 482 | 🐛 3 | 🌐 Shell | 📅 2026-10-06 - Combines the speed of masscan with the reliability and detailed enumeration of nmap
 * [NimScan](https://github.com/elddy/NimScan/) ⭐ 410 | 🐛 8 | 🌐 Nim | 📅 2022-02-10 - Fast Port Scanner 🚀
@@ -118,9 +118,9 @@
 
 * [aquatone](https://github.com/michenriksen/aquatone) ⚠️ Archived - Aquatone is a tool for visual inspection of websites across a large amount of hosts and is convenient for quickly gaining an overview of HTTP-based attack surface.
 * [EyeWitness](https://github.com/FortyNorthSecurity/EyeWitness) ⭐ 5,908 | 🐛 31 | 🌐 Python | 📅 2026-01-05 - EyeWitness is designed to take screenshots of websites, provide some server header info, and identify default credentials if possible.
-* [gowitness](https://github.com/sensepost/gowitness) ⭐ 4,565 | 🐛 42 | 🌐 Go | 📅 2026-10-29 - gowitness - a golang, web screenshot utility using Chrome Headless
+* [gowitness](https://github.com/sensepost/gowitness) ⭐ 4,566 | 🐛 42 | 🌐 Go | 📅 2026-10-29 - gowitness - a golang, web screenshot utility using Chrome Headless
 * [Depix](https://github.com/beurtschipper/Depix) ⚠️ Archived - Recovers passwords from pixelized screenshots
-* [invisible-playwright](https://github.com/feder-cr/invisible_playwright) ⭐ 2,622 | 🐛 24 | 🌐 Python | 📅 2026-11-23 - Playwright wrapper for a stealth-patched Firefox 150 binary, useful for screenshotting and recon against targets with anti-bot detection (reCAPTCHA v3, FingerprintPro, Cloudflare).
+* [invisible-playwright](https://github.com/feder-cr/invisible_playwright) ⭐ 2,613 | 🐛 9 | 🌐 Python | 📅 2026-11-24 - Playwright wrapper for a stealth-patched Firefox 150 binary, useful for screenshotting and recon against targets with anti-bot detection (reCAPTCHA v3, FingerprintPro, Cloudflare).
 * [screenshoteer](https://github.com/vladocar/screenshoteer) ⭐ 1,664 | 🐛 1 | 🌐 JavaScript | 📅 2021-07-25 - Make website screenshots and mobile emulations from the command line.
 * [eyeballer](https://github.com/BishopFox/eyeballer) ⭐ 1,304 | 🐛 9 | 🌐 Python | 📅 2026-03-08 - Convolutional neural network for analyzing pentest screenshots
 * [WitnessMe](https://github.com/byt3bl33d3r/WitnessMe) ⚠️ Archived - Web Inventory tool, takes screenshots of webpages using Pyppeteer (headless Chrome/Chromium) and provides some extra bells & whistles to make life easier.
@@ -129,10 +129,10 @@
 
 ### Technologies
 
-* [httpx](https://github.com/projectdiscovery/httpx) ⭐ 10,647 | 🐛 8 | 🌐 Go | 📅 2026-11-23 - httpx is a fast and multi-purpose HTTP toolkit allows to run multiple probers using retryablehttp library, it is designed to maintain the result reliability with increased threads.
-* [whatweb](https://github.com/urbanadventurer/whatweb) ⭐ 7,022 | 🐛 55 | 🌐 Ruby | 📅 2026-04-02 - Next generation web scanner
-* [wafw00f](https://github.com/EnableSecurity/wafw00f) ⭐ 6,607 | 🐛 2 | 🌐 Python | 📅 2026-04-19 - wafw00f allows one to identify and fingerprint Web Application Firewall (WAF) products protecting a website.
-* [retire.js](https://github.com/RetireJS/retire.js) ⭐ 4,214 | 🐛 7 | 🌐 JavaScript | 📅 2026-11-23 - scanner detecting the use of JavaScript libraries with known vulnerabilities
+* [httpx](https://github.com/projectdiscovery/httpx) ⭐ 10,654 | 🐛 8 | 🌐 Go | 📅 2026-11-23 - httpx is a fast and multi-purpose HTTP toolkit allows to run multiple probers using retryablehttp library, it is designed to maintain the result reliability with increased threads.
+* [whatweb](https://github.com/urbanadventurer/whatweb) ⭐ 7,026 | 🐛 55 | 🌐 Ruby | 📅 2026-04-02 - Next generation web scanner
+* [wafw00f](https://github.com/EnableSecurity/wafw00f) ⭐ 6,607 | 🐛 3 | 🌐 Python | 📅 2026-04-19 - wafw00f allows one to identify and fingerprint Web Application Firewall (WAF) products protecting a website.
+* [retire.js](https://github.com/RetireJS/retire.js) ⭐ 4,215 | 🐛 0 | 🌐 JavaScript | 📅 2026-11-24 - scanner detecting the use of JavaScript libraries with known vulnerabilities
 * [webanalyze](https://github.com/rverton/webanalyze) ⭐ 1,194 | 🐛 4 | 🌐 Go | 📅 2026-09-19 - Port of Wappalyzer (uncovers technologies used on websites) to automate mass scanning.
 * [tlsx](https://github.com/projectdiscovery/tlsx) ⭐ 1,166 | 🐛 4 | 🌐 Go | 📅 2026-11-21 - A fast and configurable TLS grabber focused on TLS based data collection and analysis.
 * [cdncheck](https://github.com/projectdiscovery/cdncheck) ⭐ 1,000 | 🐛 1 | 🌐 Go | 📅 2026-11-22 - cdncheck is a tool for identifying the technology associated with dns / ip network addresses.
@@ -143,13 +143,13 @@
 
 ### Content Discovery
 
-* [katana](https://github.com/projectdiscovery/katana) ⭐ 17,890 | 🐛 25 | 🌐 Go | 📅 2026-11-23 - A next-generation crawling and spidering framework
-* [dirsearch](https://github.com/maurosoria/dirsearch) ⭐ 15,116 | 🐛 25 | 🌐 Python | 📅 2026-11-05 - Web path scanner
-* [gobuster](https://github.com/OJ/gobuster) ⭐ 14,350 | 🐛 27 | 🌐 Go | 📅 2026-11-18 - Directory/File, DNS and VHost busting tool written in Go
-* [feroxbuster](https://github.com/epi052/feroxbuster) ⭐ 8,185 | 🐛 29 | 🌐 Rust | 📅 2026-11-12 - A fast, simple, recursive content discovery tool written in Rust.
+* [katana](https://github.com/projectdiscovery/katana) ⭐ 17,894 | 🐛 25 | 🌐 Go | 📅 2026-11-24 - A next-generation crawling and spidering framework
+* [dirsearch](https://github.com/maurosoria/dirsearch) ⭐ 15,121 | 🐛 25 | 🌐 Python | 📅 2026-11-05 - Web path scanner
+* [gobuster](https://github.com/OJ/gobuster) ⭐ 14,352 | 🐛 27 | 🌐 Go | 📅 2026-11-24 - Directory/File, DNS and VHost busting tool written in Go
+* [feroxbuster](https://github.com/epi052/feroxbuster) ⭐ 8,187 | 🐛 29 | 🌐 Rust | 📅 2026-11-12 - A fast, simple, recursive content discovery tool written in Rust.
 * [hakrawler](https://github.com/hakluke/hakrawler) ⭐ 5,174 | 🐛 9 | 🌐 Go | 📅 2026-08-05 - Simple, fast web crawler designed for easy, quick discovery of endpoints and assets within a web application
-* [kiterunner](https://github.com/assetnote/kiterunner) ⭐ 3,310 | 🐛 51 | 🌐 Go | 📅 2026-07-10 - Fast API endpoint bruteforcer and content discovery tool for modern web applications.
-* [uncover](https://github.com/projectdiscovery/uncover) ⭐ 3,121 | 🐛 7 | 🌐 Go | 📅 2026-11-21 - uncover is a go wrapper using APIs of well known search engines to quickly discover exposed hosts on the internet.
+* [kiterunner](https://github.com/assetnote/kiterunner) ⭐ 3,311 | 🐛 51 | 🌐 Go | 📅 2026-07-10 - Fast API endpoint bruteforcer and content discovery tool for modern web applications.
+* [uncover](https://github.com/projectdiscovery/uncover) ⭐ 3,122 | 🐛 7 | 🌐 Go | 📅 2026-11-21 - uncover is a go wrapper using APIs of well known search engines to quickly discover exposed hosts on the internet.
 * [gospider](https://github.com/jaeles-project/gospider) ⭐ 3,021 | 🐛 57 | 🌐 Go | 📅 2024-04-21 - Gospider - Fast web spider written in Go
 * [dirstalk](https://github.com/stefanoj3/dirstalk) ⭐ 398 | 🐛 12 | 🌐 Go | 📅 2023-12-24 - Modern alternative to dirbuster/dirb
 * [dirbuster-ng](https://github.com/digination/dirbuster-ng) ⭐ 358 | 🐛 5 | 🌐 C | 📅 2020-07-19 - dirbuster-ng is C CLI implementation of the Java dirbuster tool
@@ -165,13 +165,13 @@
 
 ### Links
 
-* [gau](https://github.com/lc/gau) ⭐ 5,181 | 🐛 31 | 🌐 Go | 📅 2026-10-12 - Fetch known URLs from AlienVault's Open Threat Exchange, the Wayback Machine, and Common Crawl.
+* [gau](https://github.com/lc/gau) ⭐ 5,185 | 🐛 31 | 🌐 Go | 📅 2026-10-12 - Fetch known URLs from AlienVault's Open Threat Exchange, the Wayback Machine, and Common Crawl.
 * [waybackurls](https://github.com/tomnomnom/waybackurls) ⭐ 4,613 | 🐛 49 | 🌐 Go | 📅 2024-05-01 - Fetch all the URLs that the Wayback Machine knows about for a domain
 * [LinkFinder](https://github.com/GerbenJavado/LinkFinder) ⭐ 4,479 | 🐛 53 | 🌐 Python | 📅 2024-04-13 - A python script that finds endpoints in JavaScript files
 * [waymore](https://github.com/xnl-h4ck3r/waymore) ⭐ 2,802 | 🐛 4 | 🌐 Python | 📅 2026-06-11 -  Find way more from the Wayback Machine!
-* [jsluice](https://github.com/BishopFox/jsluice) ⭐ 1,978 | 🐛 9 | 🌐 Go | 📅 2024-05-22 - This tool extracts URLs, paths, secrets, and other interesting bits from JavaScript files. Values are extracted based not just on how they look, but also based on how they are used.
+* [jsluice](https://github.com/BishopFox/jsluice) ⭐ 1,979 | 🐛 9 | 🌐 Go | 📅 2024-05-22 - This tool extracts URLs, paths, secrets, and other interesting bits from JavaScript files. Values are extracted based not just on how they look, but also based on how they are used.
 * [xnLinkFinder](https://github.com/xnl-h4ck3r/xnLinkFinder) ⭐ 1,601 | 🐛 4 | 🌐 Python | 📅 2026-03-08 -  A python tool used to discover endpoints, potential parameters, and a target specific wordlist for a given target
-* [URLFinder](https://github.com/projectdiscovery/urlfinder) ⭐ 924 | 🐛 13 | 🌐 Go | 📅 2026-11-23 - A high-speed tool for passively gathering URLs, optimized for efficient web asset discovery without active scanning.
+* [URLFinder](https://github.com/projectdiscovery/urlfinder) ⭐ 924 | 🐛 12 | 🌐 Go | 📅 2026-11-24 - A high-speed tool for passively gathering URLs, optimized for efficient web asset discovery without active scanning.
 * [getJS](https://github.com/003random/getJS) ⭐ 903 | 🐛 1 | 🌐 Go | 📅 2026-08-29 -  A tool to fastly get all javascript sources/files
 * [BurpJSLinkFinder](https://github.com/InitRoot/BurpJSLinkFinder) ⭐ 818 | 🐛 6 | 🌐 Python | 📅 2024-03-22 - Burp Extension for a passive scanning JS files for endpoint links.
 * [jsleak](https://github.com/byt3hx/jsleak) ⭐ 595 | 🐛 5 | 🌐 Go | 📅 2025-09-25 - jsleak is a tool to find secret , paths or links in JavaScript files or source code.
@@ -185,7 +185,7 @@
 
 ### Parameters
 
-* [Arjun](https://github.com/s0md3v/Arjun) ⭐ 6,452 | 🐛 25 | 🌐 Python | 📅 2025-02-20 - HTTP parameter discovery suite.
+* [Arjun](https://github.com/s0md3v/Arjun) ⭐ 6,455 | 🐛 25 | 🌐 Python | 📅 2025-02-20 - HTTP parameter discovery suite.
 * [ParamSpider](https://github.com/devanshbatham/ParamSpider) ⭐ 3,214 | 🐛 40 | 🌐 Python | 📅 2026-03-07 - Mining parameters from dark corners of Web Archives.
 * [x8](https://github.com/Sh1Yo/x8) ⭐ 2,094 | 🐛 27 | 🌐 Rust | 📅 2024-09-08 - Hidden parameters discovery suite written in Rust.
 * [param-miner](https://github.com/PortSwigger/param-miner) ⭐ 1,468 | 🐛 27 | 🌐 Java | 📅 2026-08-13 - This extension identifies hidden, unlinked parameters. It's particularly useful for finding web alterx poisoning vulnerabilities.
@@ -194,12 +194,12 @@
 
 ### Fuzzing
 
-* [ffuf](https://github.com/ffuf/ffuf) ⭐ 17,106 | 🐛 248 | 🌐 Go | 📅 2026-09-26 -  Fast web fuzzer written in Go
+* [ffuf](https://github.com/ffuf/ffuf) ⭐ 17,113 | 🐛 248 | 🌐 Go | 📅 2026-09-26 -  Fast web fuzzer written in Go
 * [fuzzdb](https://github.com/fuzzdb-project/fuzzdb) ⭐ 9,010 | 🐛 15 | 🌐 PHP | 📅 2023-11-10 - Dictionary of attack patterns and primitives for black-box application fault injection and resource discovery.
 * [wfuzz](https://github.com/xmendez/wfuzz) ⭐ 6,609 | 🐛 117 | 🌐 Python | 📅 2026-01-21 - Web application fuzzer
 * [IntruderPayloads](https://github.com/1N3/IntruderPayloads) ⭐ 4,000 | 🐛 4 | 🌐 BlitzBasic | 📅 2021-09-27 - A collection of Burpsuite Intruder payloads, BurpBounty payloads, fuzz lists, malicious file uploads and web pentesting methodologies and checklists.
 * [fuzz.txt](https://github.com/Bo0oM/fuzz.txt) ⭐ 3,405 | 🐛 8 | 📅 2026-07-28 - Potentially dangerous files
-* [fuzzilli](https://github.com/googleprojectzero/fuzzilli) ⭐ 2,396 | 🐛 75 | 🌐 Swift | 📅 2026-11-16 - A JavaScript Engine Fuzzer
+* [fuzzilli](https://github.com/googleprojectzero/fuzzilli) ⭐ 2,397 | 🐛 75 | 🌐 Swift | 📅 2026-11-16 - A JavaScript Engine Fuzzer
 * [fuzzapi](https://github.com/Fuzzapi/fuzzapi) ⚠️ Archived - Fuzzapi is a tool used for REST API pentesting and uses API\_Fuzzer gem
 * [vaf](https://github.com/d4rckh/vaf) ⭐ 318 | 🐛 5 | 🌐 Nim | 📅 2022-05-29 - very advanced (web) fuzzer written in Nim.
 * [qsfuzz](https://github.com/ameenmaali/qsfuzz) ⭐ 300 | 🐛 3 | 🌐 Go | 📅 2023-02-12 - qsfuzz (Query String Fuzz) allows you to build your own rules to fuzz query strings and easily identify vulnerabilities.
@@ -215,7 +215,7 @@
 
 ### Command Injection
 
-* [commix](https://github.com/commixproject/commix) ⭐ 5,915 | 🐛 0 | 🌐 Python | 📅 2026-11-23 - Automated All-in-One OS command injection and exploitation tool.
+* [commix](https://github.com/commixproject/commix) ⭐ 5,917 | 🐛 0 | 🌐 Python | 📅 2026-11-24 - Automated All-in-One OS command injection and exploitation tool.
 
 ### CORS Misconfiguration
 
@@ -267,7 +267,7 @@
 ### Insecure Deserialization
 
 * [ysoserial](https://github.com/frohoff/ysoserial) ⭐ 9,106 | 🐛 47 | 🌐 Java | 📅 2025-12-04 - A proof-of-concept tool for generating payloads that exploit unsafe Java object deserialization.
-* [phpggc](https://github.com/ambionics/phpggc) ⭐ 3,925 | 🐛 28 | 🌐 PHP | 📅 2025-09-29 - PHPGGC is a library of PHP unserialize() payloads along with a tool to generate them, from command line or programmatically.
+* [phpggc](https://github.com/ambionics/phpggc) ⭐ 3,926 | 🐛 28 | 🌐 PHP | 📅 2025-09-29 - PHPGGC is a library of PHP unserialize() payloads along with a tool to generate them, from command line or programmatically.
 * [ysoserial.net](https://github.com/pwntester/ysoserial.net) ⭐ 3,810 | 🐛 12 | 🌐 C# | 📅 2026-09-07 - Deserialization payload generator for a variety of .NET formatters
 * [GadgetProbe](https://github.com/BishopFox/GadgetProbe) ⭐ 617 | 🐛 0 | 🌐 Java | 📅 2021-03-04 - Probe endpoints consuming Java serialized objects to identify classes, libraries, and library versions on remote Java classpaths.
 
@@ -301,9 +301,9 @@
 
 ### Server Side Request Forgery
 
-* [SSRFmap](https://github.com/swisskyrepo/SSRFmap) ⭐ 3,650 | 🐛 1 | 🌐 Python | 📅 2026-08-10 - Automatic SSRF fuzzer and exploitation tool
+* [SSRFmap](https://github.com/swisskyrepo/SSRFmap) ⭐ 3,652 | 🐛 1 | 🌐 Python | 📅 2026-08-10 - Automatic SSRF fuzzer and exploitation tool
 * [Gopherus](https://github.com/tarunkant/Gopherus) ⭐ 3,438 | 🐛 12 | 🌐 Python | 📅 2023-04-18 - This tool generates gopher link for exploiting SSRF and gaining RCE in various servers
-* [singularity](https://github.com/nccgroup/singularity) ⭐ 1,329 | 🐛 17 | 🌐 JavaScript | 📅 2026-11-20 - A DNS rebinding attack framework.
+* [singularity](https://github.com/nccgroup/singularity) ⭐ 1,330 | 🐛 17 | 🌐 JavaScript | 📅 2026-11-20 - A DNS rebinding attack framework.
 * [SSRFire](https://github.com/micha3lb3n/SSRFire) ⭐ 965 | 🐛 1 | 🌐 Shell | 📅 2021-12-08 - An automated SSRF finder. Just give the domain name and your server and chill! ;) Also has options to find XSS and open redirects
 * [rbndr](https://github.com/taviso/rbndr) ⭐ 766 | 🐛 5 | 🌐 C | 📅 2020-01-16 - Simple DNS Rebinding Service
 * [surf](https://github.com/assetnote/surf) ⭐ 763 | 🐛 2 | 🌐 Go | 📅 2026-07-10 - Escalate your SSRF vulnerabilities on Modern Cloud Environments. `surf` allows you to filter a list of hosts, returning a list of viable SSRF candidates.
@@ -325,9 +325,9 @@
 
 ### SQL Injection
 
-* [sqlmap](https://github.com/sqlmapproject/sqlmap) ⭐ 39,022 | 🐛 15 | 🌐 Python | 📅 2026-11-23 - Automatic SQL injection and database takeover tool
-* [ghauri](https://github.com/r0oth3x49/ghauri) ⭐ 4,091 | 🐛 26 | 🌐 Python | 📅 2025-10-04 - An advanced cross-platform tool that automates the process of detecting and exploiting SQL injection security flaws
-* [NoSQLMap](https://github.com/codingo/NoSQLMap) ⭐ 3,375 | 🐛 2 | 🌐 Python | 📅 2026-10-13 - Automated NoSQL database enumeration and web application exploitation tool.
+* [sqlmap](https://github.com/sqlmapproject/sqlmap) ⭐ 39,030 | 🐛 14 | 🌐 Python | 📅 2026-11-24 - Automatic SQL injection and database takeover tool
+* [ghauri](https://github.com/r0oth3x49/ghauri) ⭐ 4,092 | 🐛 26 | 🌐 Python | 📅 2025-10-04 - An advanced cross-platform tool that automates the process of detecting and exploiting SQL injection security flaws
+* [NoSQLMap](https://github.com/codingo/NoSQLMap) ⭐ 3,374 | 🐛 2 | 🌐 Python | 📅 2026-10-13 - Automated NoSQL database enumeration and web application exploitation tool.
 * [sqliv](https://github.com/the-robot/sqliv) ⚠️ Archived - massive SQL injection vulnerability scanner
 * [SQLiScanner](https://github.com/0xbug/SQLiScanner) ⚠️ Archived - Automatic SQL injection with Charles and sqlmap api
 * [mssqlproxy](https://github.com/blackarrowsec/mssqlproxy) ⭐ 773 | 🐛 1 | 🌐 Python | 📅 2021-02-16 - mssqlproxy is a toolkit aimed to perform lateral movement in restricted environments through a compromised Microsoft SQL Server via socket reuse
@@ -342,12 +342,12 @@
 
 ### XSS Injection
 
-* [XSStrike](https://github.com/s0md3v/XSStrike) ⭐ 15,282 | 🐛 93 | 🌐 Python | 📅 2025-04-26 - Most advanced XSS scanner.
-* [dalfox](https://github.com/hahwul/dalfox) ⭐ 5,397 | 🐛 3 | 🌐 Rust | 📅 2026-11-23 - DalFox(Finder Of XSS) / Parameter Analysis and XSS Scanning tool based on golang
-* [ezXSS](https://github.com/ssl/ezXSS) ⭐ 2,360 | 🐛 1 | 🌐 PHP | 📅 2026-11-23 - ezXSS is an easy way for penetration testers and bug bounty hunters to test (blind) Cross Site Scripting.
-* [xssor2](https://github.com/evilcos/xssor2) ⭐ 2,219 | 🐛 4 | 🌐 JavaScript | 📅 2021-12-12 - XSS'OR - Hack with JavaScript.
+* [XSStrike](https://github.com/s0md3v/XSStrike) ⭐ 15,283 | 🐛 93 | 🌐 Python | 📅 2025-04-26 - Most advanced XSS scanner.
+* [dalfox](https://github.com/hahwul/dalfox) ⭐ 5,398 | 🐛 3 | 🌐 Rust | 📅 2026-11-24 - DalFox(Finder Of XSS) / Parameter Analysis and XSS Scanning tool based on golang
+* [ezXSS](https://github.com/ssl/ezXSS) ⭐ 2,360 | 🐛 1 | 🌐 PHP | 📅 2026-11-24 - ezXSS is an easy way for penetration testers and bug bounty hunters to test (blind) Cross Site Scripting.
+* [xssor2](https://github.com/evilcos/xssor2) ⭐ 2,220 | 🐛 4 | 🌐 JavaScript | 📅 2021-12-12 - XSS'OR - Hack with JavaScript.
 * [xsscrapy](https://github.com/DanMcInerney/xsscrapy) ⭐ 1,740 | 🐛 38 | 🌐 Python | 📅 2024-06-13 - XSS spider - 66/66 wavsep XSS detected
-* [xsshunter](https://github.com/mandatoryprogrammer/xsshunter) ⭐ 1,561 | 🐛 29 | 🌐 JavaScript | 📅 2022-12-07 - The XSS Hunter service - a portable version of XSSHunter.com
+* [xsshunter](https://github.com/mandatoryprogrammer/xsshunter) ⭐ 1,562 | 🐛 29 | 🌐 JavaScript | 📅 2022-12-07 - The XSS Hunter service - a portable version of XSSHunter.com
 * [xsser](https://github.com/epsylon/xsser) ⭐ 1,482 | 🐛 0 | 🌐 Python | 📅 2026-09-05 - Cross Site "Scripter" (aka XSSer) is an automatic -framework- to detect, exploit and report XSS vulnerabilities in web-based applications.
 * [weaponised-XSS-payloads](https://github.com/hakluke/weaponised-XSS-payloads) ⭐ 1,408 | 🐛 2 | 🌐 JavaScript | 📅 2023-09-12 - XSS payloads designed to turn alert(1) into P1
 * [XSpear](https://github.com/hahwul/XSpear) ⚠️ Archived - Powerful XSS Scanning and Parameter analysis tool\&gem
@@ -395,8 +395,8 @@
 
 ### SSTI Injection
 
-* [tplmap](https://github.com/epinna/tplmap) ⭐ 4,219 | 🐛 46 | 🌐 Python | 📅 2024-04-21 - Server-Side Template Injection and Code Injection Detection and Exploitation Tool
-* [SSTImap](https://github.com/vladko312/SSTImap) ⭐ 1,738 | 🐛 15 | 🌐 Python | 📅 2026-08-25 - Automatic SSTI detection tool with interactive interface
+* [tplmap](https://github.com/epinna/tplmap) ⭐ 4,220 | 🐛 46 | 🌐 Python | 📅 2024-04-21 - Server-Side Template Injection and Code Injection Detection and Exploitation Tool
+* [SSTImap](https://github.com/vladko312/SSTImap) ⭐ 1,740 | 🐛 15 | 🌐 Python | 📅 2026-08-25 - Automatic SSTI detection tool with interactive interface
 
 ### Web-Cache-Poisoning
 
@@ -404,9 +404,9 @@
 
 ### Waf Evasion
 
-* [nomore403](https://github.com/devploit/nomore403) ⭐ 1,926 | 🐛 2 | 🌐 Go | 📅 2026-10-30 - Advanced tool for security researchers to bypass 403/40X restrictions .
+* [nomore403](https://github.com/devploit/nomore403) ⭐ 1,928 | 🐛 2 | 🌐 Go | 📅 2026-10-30 - Advanced tool for security researchers to bypass 403/40X restrictions .
 * [nowafpls](https://github.com/assetnote/nowafpls/) ⭐ 1,525 | 🐛 3 | 🌐 Python | 📅 2025-07-14 - Burp Plugin to Bypass WAFs through the insertion of Junk Data.
-* [Forbidden Buster](https://github.com/Sn1r/Forbidden-Buster) ⭐ 255 | 🐛 0 | 🌐 Python | 📅 2024-08-31 - A tool designed to automate various techniques in order to bypass HTTP 401 and 403 response codes and gain access to unauthorized areas in the system.
+* [Forbidden Buster](https://github.com/Sn1r/Forbidden-Buster) ⭐ 256 | 🐛 0 | 🌐 Python | 📅 2024-08-31 - A tool designed to automate various techniques in order to bypass HTTP 401 and 403 response codes and gain access to unauthorized areas in the system.
 * [XFFenum](https://github.com/vavkamil/XFFenum) ⭐ 100 | 🐛 2 | 🌐 Python | 📅 2024-05-03 - A simple tool to bypass 403 forbidden end-points behind load balancers (Cloudflare) based on X-Forwarded-For header.
 
 ***
@@ -415,23 +415,23 @@
 
 ### Passwords
 
-* [thc-hydra](https://github.com/vanhauser-thc/thc-hydra) ⭐ 12,566 | 🐛 47 | 🌐 C | 📅 2026-11-15 - Hydra is a parallelized login cracker which supports numerous protocols to attack.
-* [DefaultCreds-cheat-sheet](https://github.com/ihebski/DefaultCreds-cheat-sheet) ⭐ 6,831 | 🐛 0 | 🌐 Python | 📅 2026-09-27 - One place for all the default credentials to assist the Blue/Red teamers activities on finding devices with default password
+* [thc-hydra](https://github.com/vanhauser-thc/thc-hydra) ⭐ 12,571 | 🐛 49 | 🌐 C | 📅 2026-11-15 - Hydra is a parallelized login cracker which supports numerous protocols to attack.
+* [DefaultCreds-cheat-sheet](https://github.com/ihebski/DefaultCreds-cheat-sheet) ⭐ 6,836 | 🐛 0 | 🌐 Python | 📅 2026-09-27 - One place for all the default credentials to assist the Blue/Red teamers activities on finding devices with default password
 * [patator](https://github.com/lanjelot/patator) ⭐ 3,951 | 🐛 41 | 🌐 Python | 📅 2026-11-14 - Patator is a multi-purpose brute-forcer, with a modular design and a flexible usage.
-* [BruteX](https://github.com/1N3/BruteX) ⭐ 2,325 | 🐛 10 | 🌐 Shell | 📅 2024-08-18 - Automatically brute force all services running on a target.
+* [BruteX](https://github.com/1N3/BruteX) ⭐ 2,326 | 🐛 10 | 🌐 Shell | 📅 2024-08-18 - Automatically brute force all services running on a target.
 * [changeme](https://github.com/ztgrace/changeme) ⭐ 1,517 | 🐛 16 | 🌐 Python | 📅 2025-07-08 - A default credential scanner.
 
 ### Secrets
 
-* [gitleaks](https://github.com/zricethezav/gitleaks) ⭐ 31,286 | 🐛 553 | 🌐 Go | 📅 2026-10-28 - Scan git repos (or files) for secrets using regex and entropy
-* [truffleHog](https://github.com/dxa4481/truffleHog) ⭐ 29,597 | 🐛 626 | 🌐 Go | 📅 2026-11-23 - Searches through git repositories for high entropy strings and secrets, digging deep into commit history
+* [gitleaks](https://github.com/zricethezav/gitleaks) ⭐ 31,311 | 🐛 556 | 🌐 Go | 📅 2026-10-28 - Scan git repos (or files) for secrets using regex and entropy
+* [truffleHog](https://github.com/dxa4481/truffleHog) ⭐ 29,622 | 🐛 625 | 🌐 Go | 📅 2026-11-24 - Searches through git repositories for high entropy strings and secrets, digging deep into commit history
 * [git-secrets](https://github.com/awslabs/git-secrets) ⭐ 13,449 | 🐛 131 | 🌐 Shell | 📅 2025-09-17 - Prevents you from committing secrets and credentials into git repositories
-* [keyhacks](https://github.com/streaak/keyhacks) ⭐ 6,390 | 🐛 46 | 📅 2026-08-07 - KeyHacks shows methods to validate different API keys found on a Bug Bounty Program or a pentest.
+* [keyhacks](https://github.com/streaak/keyhacks) ⭐ 6,392 | 🐛 46 | 📅 2026-08-07 - KeyHacks shows methods to validate different API keys found on a Bug Bounty Program or a pentest.
 * [gitrob](https://github.com/michenriksen/gitrob) ⚠️ Archived - Reconnaissance tool for GitHub organizations
 * [detect-secrets](https://github.com/Yelp/detect-secrets) ⭐ 4,682 | 🐛 198 | 🌐 Python | 📅 2026-04-02 - An enterprise friendly way of detecting and preventing secrets in code.
 * [shhgit](https://github.com/eth0izzle/shhgit) ⭐ 3,994 | 🐛 33 | 🌐 JavaScript | 📅 2025-02-28 - Ah shhgit! Find GitHub secrets in real time
-* [cariddi](https://github.com/edoardottt/cariddi) ⭐ 3,847 | 🐛 13 | 🌐 Go | 📅 2026-11-19 - Take a list of domains, crawl urls and scan for endpoints, secrets, api keys, file extensions, tokens and more...
-* [SecretFinder](https://github.com/m4ll0k/SecretFinder) ⭐ 2,545 | 🐛 48 | 🌐 Python | 📅 2024-05-26 - A python script for finding sensitive data (apikeys, accesstoken,jwt,..) and search anything on javascript files.
+* [cariddi](https://github.com/edoardottt/cariddi) ⭐ 3,849 | 🐛 13 | 🌐 Go | 📅 2026-11-19 - Take a list of domains, crawl urls and scan for endpoints, secrets, api keys, file extensions, tokens and more...
+* [SecretFinder](https://github.com/m4ll0k/SecretFinder) ⭐ 2,546 | 🐛 48 | 🌐 Python | 📅 2024-05-26 - A python script for finding sensitive data (apikeys, accesstoken,jwt,..) and search anything on javascript files.
 * [gitGraber](https://github.com/hisxo/gitGraber) ⭐ 2,472 | 🐛 12 | 🌐 Python | 📅 2026-03-26 - gitGraber: monitor GitHub to search and find sensitive data in real time for different online services
 * [noseyparker](https://github.com/praetorian-inc/noseyparker) ⚠️ Archived - Nosey Parker is a command-line program that finds secrets and sensitive information in textual data and Git history.
 * [GitMiner](https://github.com/UnkL4b/GitMiner) ⭐ 2,145 | 🐛 13 | 🌐 Python | 📅 2025-11-05 - Tool for advanced mining for content on Github
@@ -441,7 +441,7 @@
 * [GitHound](https://github.com/tillson/git-hound) ⭐ 1,475 | 🐛 3 | 🌐 Go | 📅 2026-02-10 - Recon tool leveraging Code Search API. Scans for exposed API keys across all of GitHub, not just known repos and orgs. Support for GitHub dorks.
 * [git-all-secrets](https://github.com/anshumanbh/git-all-secrets) ⭐ 1,145 | 🐛 6 | 🌐 Go | 📅 2019-06-25 - A tool to capture all the git secrets by leveraging multiple open source git searching tools
 * [earlybird](https://github.com/americanexpress/earlybird) ⭐ 774 | 🐛 24 | 🌐 Go | 📅 2026-05-26 - EarlyBird is a sensitive data detection tool capable of scanning source code repositories for clear text password violations, PII, outdated cryptography methods, key files and more.
-* [keyFinder](https://github.com/momenbasel/keyFinder) ⭐ 735 | 🐛 2 | 🌐 JavaScript | 📅 2026-11-19 - A Chrome extension that passively scans web pages for API keys, tokens, and secrets using 80+ regex patterns and Shannon entropy analysis across 10 attack surfaces.
+* [keyFinder](https://github.com/momenbasel/keyFinder) ⭐ 736 | 🐛 2 | 🌐 JavaScript | 📅 2026-11-19 - A Chrome extension that passively scans web pages for API keys, tokens, and secrets using 80+ regex patterns and Shannon entropy analysis across 10 attack surfaces.
 * [rusty-hog](https://github.com/newrelic/rusty-hog) ⭐ 557 | 🐛 18 | 🌐 Rust | 📅 2026-08-03 - A suite of secret scanners built in Rust for performance. Based on TruffleHog
 * [whispers](https://github.com/Skyscanner/whispers) ⚠️ Archived - Identify hardcoded secrets and dangerous behaviours
 * [git-vuln-finder](https://github.com/cve-search/git-vuln-finder) ⭐ 428 | 🐛 2 | 🌐 Python | 📅 2023-10-07 - Finding potential software vulnerabilities from git commit messages
@@ -453,9 +453,9 @@
 
 ### Git
 
-* [zizmor](https://github.com/zizmorcore/zizmor) ⭐ 7,132 | 🐛 181 | 🌐 Rust | 📅 2026-11-23 - Static analysis tool for GitHub Actions
+* [zizmor](https://github.com/zizmorcore/zizmor) ⭐ 7,155 | 🐛 180 | 🌐 Rust | 📅 2026-11-24 - Static analysis tool for GitHub Actions
 * [GitTools](https://github.com/internetwache/GitTools) ⭐ 4,191 | 🐛 2 | 🌐 Shell | 📅 2026-09-29 - A repository with 3 tools for pwn'ing websites with .git repositories available
-* [git-dumper](https://github.com/arthaud/git-dumper) ⭐ 2,708 | 🐛 10 | 🌐 Python | 📅 2026-09-06 - A tool to dump a git repository from a website
+* [git-dumper](https://github.com/arthaud/git-dumper) ⭐ 2,709 | 🐛 10 | 🌐 Python | 📅 2026-09-06 - A tool to dump a git repository from a website
 * [dvcs-ripper](https://github.com/kost/dvcs-ripper) ⭐ 1,789 | 🐛 11 | 🌐 Perl | 📅 2024-07-19 - Rip web accessible (distributed) version control systems: SVN/GIT/HG...
 * [gitjacker](https://github.com/liamg/gitjacker) ⭐ 1,609 | 🐛 11 | 🌐 Go | 📅 2025-12-05 - Leak git repositories from misconfigured websites
 * [GitHunter](https://github.com/digininja/GitHunter) ⭐ 105 | 🐛 3 | 🌐 Go | 📅 2023-12-18 - A tool for searching a Git repository for interesting content
@@ -463,9 +463,9 @@
 
 ### Buckets
 
-* [S3Scanner](https://github.com/sa7mon/S3Scanner) ⭐ 3,183 | 🐛 41 | 🌐 Go | 📅 2026-08-03 - Scan for open AWS S3 buckets and dump the contents
+* [S3Scanner](https://github.com/sa7mon/S3Scanner) ⭐ 3,184 | 🐛 41 | 🌐 Go | 📅 2026-08-03 - Scan for open AWS S3 buckets and dump the contents
 * [AWSBucketDump](https://github.com/jordanpotti/AWSBucketDump) ⭐ 1,470 | 🐛 8 | 🌐 Python | 📅 2024-04-10 - Security Tool to Look For Interesting Files in S3 Buckets
-* [CloudBrute](https://github.com/0xsha/CloudBrute) ⭐ 1,153 | 🐛 0 | 🌐 Go | 📅 2025-03-09 - Awesome cloud enumerator
+* [CloudBrute](https://github.com/0xsha/CloudBrute) ⭐ 1,154 | 🐛 0 | 🌐 Go | 📅 2025-03-09 - Awesome cloud enumerator
 * [CloudScraper](https://github.com/jordanpotti/CloudScraper) ⭐ 539 | 🐛 3 | 🌐 Python | 📅 2022-03-07 - CloudScraper: Tool to enumerate targets in search of cloud resources. S3 Buckets, Azure Blobs, Digital Ocean Storage Space.
 * [s3tk](https://github.com/ankane/s3tk) ⭐ 457 | 🐛 1 | 🌐 Python | 📅 2026-10-29 - A security toolkit for Amazon S3
 * [s3viewer](https://github.com/SharonBrizinov/s3viewer) ⭐ 447 | 🐛 2 | 🌐 Python | 📅 2023-10-11 - Publicly Open Amazon AWS S3 Bucket Viewer
@@ -484,8 +484,8 @@
 
 ### CMS
 
-* [wpscan](https://github.com/wpscanteam/wpscan) ⭐ 9,862 | 🐛 2 | 🌐 Ruby | 📅 2026-11-19 - WPScan is a free, for non-commercial use, black box WordPress security scanner
-* [joomscan](https://github.com/OWASP/joomscan) ⭐ 1,198 | 🐛 24 | 🌐 Raku | 📅 2024-09-11 - OWASP Joomla Vulnerability Scanner Project
+* [wpscan](https://github.com/wpscanteam/wpscan) ⭐ 9,864 | 🐛 3 | 🌐 Ruby | 📅 2026-11-24 - WPScan is a free, for non-commercial use, black box WordPress security scanner
+* [joomscan](https://github.com/OWASP/joomscan) ⭐ 1,199 | 🐛 24 | 🌐 Raku | 📅 2024-09-11 - OWASP Joomla Vulnerability Scanner Project
 * [CMSmap](https://github.com/Dionach/CMSmap) ⭐ 1,179 | 🐛 32 | 🌐 Python | 📅 2021-12-01 -  CMSmap is a python open source CMS scanner that automates the process of detecting security flaws of the most popular CMSs.
 * [aemhacker](https://github.com/0ang3el/aem-hacker) ⭐ 811 | 🐛 15 | 🌐 Python | 📅 2024-07-28 - Tools to identify vulnerable Adobe Experience Manager (AEM) webapps.
 * [pyfiscan](https://github.com/fgeek/pyfiscan) ⭐ 574 | 🐛 0 | 🌐 Python | 📅 2026-09-26 - Free web-application vulnerability and version scanner
@@ -496,9 +496,9 @@
 
 ### JSON Web Token
 
-* [jwt\_tool](https://github.com/ticarpi/jwt_tool) ⭐ 6,825 | 🐛 76 | 🌐 Python | 📅 2025-05-01 - A toolkit for testing, tweaking and cracking JSON Web Tokens
+* [jwt\_tool](https://github.com/ticarpi/jwt_tool) ⭐ 6,827 | 🐛 75 | 🌐 Python | 📅 2025-05-01 - A toolkit for testing, tweaking and cracking JSON Web Tokens
 * [c-jwt-cracker](https://github.com/brendan-rius/c-jwt-cracker) ⭐ 2,565 | 🐛 16 | 🌐 C | 📅 2023-06-02 - JWT brute force cracker written in C
-* [jwt-cracker](https://github.com/lmammino/jwt-cracker) ⭐ 1,181 | 🐛 12 | 🌐 JavaScript | 📅 2024-07-13 - Simple HS256 JWT token brute force cracker
+* [jwt-cracker](https://github.com/lmammino/jwt-cracker) ⭐ 1,182 | 🐛 12 | 🌐 JavaScript | 📅 2024-07-13 - Simple HS256 JWT token brute force cracker
 * [jwt-hack](https://github.com/hahwul/jwt-hack) ⭐ 1,094 | 🐛 0 | 🌐 Rust | 📅 2026-11-22 - jwt-hack is tool for hacking / security testing to JWT.
 * [jwt-heartbreaker](https://github.com/wallarm/jwt-heartbreaker) ⭐ 143 | 🐛 2 | 🌐 Java | 📅 2020-09-21 - The Burp extension to check JWT (JSON Web Tokens) for using keys from known from public sources
 * [jwtear](https://github.com/KINGSABRI/jwtear) ⭐ 104 | 🐛 2 | 🌐 Ruby | 📅 2023-03-17 - Modular command-line tool to parse, create and manipulate JWT tokens for hackers
@@ -527,27 +527,27 @@
 
 ### Vulnerability Scanners
 
-* [metasploit-framework](https://github.com/rapid7/metasploit-framework) ⭐ 39,650 | 🐛 607 | 🌐 Ruby | 📅 2026-11-23 - Metasploit Framework
-* [nuclei](https://github.com/projectdiscovery/nuclei) ⭐ 33,228 | 🐛 124 | 🌐 Go | 📅 2026-11-23 - Nuclei is a fast tool for configurable targeted scanning based on templates offering massive extensibility and ease of use.
-* [OWASP ZAP](https://github.com/zaproxy/zaproxy) ⭐ 16,252 | 🐛 890 | 🌐 Java | 📅 2026-11-20 -  World’s most popular free web security tools and is actively maintained by a dedicated international team of volunteers
-* [nuclei-templates](https://github.com/projectdiscovery/nuclei-templates) ⭐ 13,393 | 🐛 221 | 🌐 JavaScript | 📅 2026-11-23 - Community curated list of templates for the nuclei engine to find security vulnerabilities.
-* [Sn1per](https://github.com/1N3/Sn1per) ⭐ 11,566 | 🐛 9 | 🌐 Shell | 📅 2026-10-27 - Automated pentest framework for offensive security experts
+* [metasploit-framework](https://github.com/rapid7/metasploit-framework) ⭐ 39,657 | 🐛 608 | 🌐 Ruby | 📅 2026-11-24 - Metasploit Framework
+* [nuclei](https://github.com/projectdiscovery/nuclei) ⭐ 33,252 | 🐛 127 | 🌐 Go | 📅 2026-11-24 - Nuclei is a fast tool for configurable targeted scanning based on templates offering massive extensibility and ease of use.
+* [OWASP ZAP](https://github.com/zaproxy/zaproxy) ⭐ 16,265 | 🐛 892 | 🌐 Java | 📅 2026-11-24 -  World’s most popular free web security tools and is actively maintained by a dedicated international team of volunteers
+* [nuclei-templates](https://github.com/projectdiscovery/nuclei-templates) ⭐ 13,397 | 🐛 227 | 🌐 JavaScript | 📅 2026-11-24 - Community curated list of templates for the nuclei engine to find security vulnerabilities.
+* [Sn1per](https://github.com/1N3/Sn1per) ⭐ 11,569 | 🐛 9 | 🌐 Shell | 📅 2026-11-23 - Automated pentest framework for offensive security experts
 * [nikto](https://github.com/sullo/nikto) ⭐ 10,875 | 🐛 0 | 🌐 Perl | 📅 2026-11-15 - Nikto web server scanner
-* [Osmedeus](https://github.com/j3ssie/Osmedeus) ⭐ 6,669 | 🐛 3 | 🌐 Go | 📅 2026-11-23 - Fully automated offensive security framework for reconnaissance and vulnerability scanning
-* [retire.js](https://github.com/RetireJS/retire.js) ⭐ 4,214 | 🐛 7 | 🌐 JavaScript | 📅 2026-11-23 - scanner detecting the use of JavaScript libraries with known vulnerabilities
+* [Osmedeus](https://github.com/j3ssie/Osmedeus) ⭐ 6,671 | 🐛 3 | 🌐 Go | 📅 2026-11-23 - Fully automated offensive security framework for reconnaissance and vulnerability scanning
+* [retire.js](https://github.com/RetireJS/retire.js) ⭐ 4,215 | 🐛 0 | 🌐 JavaScript | 📅 2026-11-24 - scanner detecting the use of JavaScript libraries with known vulnerabilities
 * [flan](https://github.com/cloudflare/flan) ⚠️ Archived - A pretty sweet vulnerability scanner
 * [arachni](https://github.com/Arachni/arachni) ⚠️ Archived - Web Application Security Scanner Framework
-* [cariddi](https://github.com/edoardottt/cariddi) ⭐ 3,847 | 🐛 13 | 🌐 Go | 📅 2026-11-19 - Take a list of domains, crawl urls and scan for endpoints, secrets, api keys, file extensions, tokens and more...
-* [jaeles](https://github.com/jaeles-project/jaeles) ⭐ 2,385 | 🐛 32 | 🌐 Go | 📅 2026-06-20 - The Swiss Army knife for automated Web Application Testing
-* [Findsploit](https://github.com/1N3/Findsploit) ⭐ 1,870 | 🐛 1 | 🌐 Shell | 📅 2021-09-27 - Find exploits in local and online databases instantly
-* [BlackWidow](https://github.com/1N3/BlackWidow) ⭐ 1,844 | 🐛 4 | 🌐 Python | 📅 2026-04-17 - A Python based web application scanner to gather OSINT and fuzz for OWASP vulnerabilities on a target website.
+* [cariddi](https://github.com/edoardottt/cariddi) ⭐ 3,849 | 🐛 13 | 🌐 Go | 📅 2026-11-19 - Take a list of domains, crawl urls and scan for endpoints, secrets, api keys, file extensions, tokens and more...
+* [jaeles](https://github.com/jaeles-project/jaeles) ⭐ 2,386 | 🐛 32 | 🌐 Go | 📅 2026-06-20 - The Swiss Army knife for automated Web Application Testing
+* [Findsploit](https://github.com/1N3/Findsploit) ⭐ 1,869 | 🐛 1 | 🌐 Shell | 📅 2021-09-27 - Find exploits in local and online databases instantly
+* [BlackWidow](https://github.com/1N3/BlackWidow) ⭐ 1,845 | 🐛 4 | 🌐 Python | 📅 2026-04-17 - A Python based web application scanner to gather OSINT and fuzz for OWASP vulnerabilities on a target website.
 * [getsploit](https://github.com/vulnersCom/getsploit) ⭐ 1,837 | 🐛 8 | 🌐 Python | 📅 2026-10-26 - Command line utility for searching and downloading exploits
-* [SSTImap](https://github.com/vladko312/SSTImap) ⭐ 1,738 | 🐛 15 | 🌐 Python | 📅 2026-08-25 -  SSTImap is a penetration testing software that can check websites for Code Injection and Server-Side Template Injection vulnerabilities and exploit them, giving access to the operating system itself.
-* [Vigolium](https://github.com/vigolium/vigolium) ⭐ 1,156 | 🐛 5 | 🌐 Go | 📅 2026-11-18 - High-fidelity vulnerability scanner fusing agentic AI with native speed, modularity, and precision
+* [SSTImap](https://github.com/vladko312/SSTImap) ⭐ 1,740 | 🐛 15 | 🌐 Python | 📅 2026-08-25 -  SSTImap is a penetration testing software that can check websites for Code Injection and Server-Side Template Injection vulnerabilities and exploit them, giving access to the operating system itself.
+* [Vigolium](https://github.com/vigolium/vigolium) ⭐ 1,158 | 🐛 5 | 🌐 Go | 📅 2026-11-18 - High-fidelity vulnerability scanner fusing agentic AI with native speed, modularity, and precision
 * [Lonkero](https://github.com/bountyyfi/lonkero) ⭐ 1,099 | 🐛 12 | 🌐 Rust | 📅 2026-11-02 - Enterprise-grade web vulnerability scanner with 60+ attack modules, built in Rust for penetration testing and security assessments.
 * [backslash-powered-scanner](https://github.com/PortSwigger/backslash-powered-scanner) ⭐ 718 | 🐛 2 | 🌐 Java | 📅 2025-04-30 - Finds unknown classes of injection vulnerabilities
-* [Crossfyre Toolchain](https://github.com/clickswave/crossfyre-toolchain) ⭐ 262 | 🐛 4 | 🌐 Rust | 📅 2026-11-23 - Rust engines for subdomains, ports, content discovery, fingerprinting and nuclei-compatible templates, with each finding confirmed before it is reported.
-* [OWASP PTK](https://github.com/DenisPodgurskii/pentestkit) ⭐ 261 | 🐛 1 | 🌐 JavaScript | 📅 2026-11-19 -  Browser-based vulnerability scanner for bug bounty and pentesting workflows, combining DAST, SAST, IAST, and SCA capabilities to detect runtime, source-level, interactive, and dependency-related security issues.
+* [OWASP PTK](https://github.com/DenisPodgurskii/pentestkit) ⭐ 262 | 🐛 1 | 🌐 JavaScript | 📅 2026-11-19 -  Browser-based vulnerability scanner for bug bounty and pentesting workflows, combining DAST, SAST, IAST, and SCA capabilities to detect runtime, source-level, interactive, and dependency-related security issues.
+* [Crossfyre Toolchain](https://github.com/clickswave/crossfyre-toolchain) ⭐ 262 | 🐛 3 | 🌐 Rust | 📅 2026-11-24 - Rust engines for subdomains, ports, content discovery, fingerprinting and nuclei-compatible templates, with each finding confirmed before it is reported.
 * [Eagle](https://github.com/BitTheByte/Eagle) ⭐ 129 | 🐛 1 | 🌐 Python | 📅 2023-06-04 - Multithreaded Plugin based vulnerability scanner for mass detection of web-based applications vulnerabilities
 
 ### Permutation
@@ -561,12 +561,12 @@
 
 ### Web Proxy and Traffic Interception
 
-* [mitmproxy](https://github.com/mitmproxy/mitmproxy) ⭐ 47,157 | 🐛 567 | 🌐 Python | 📅 2026-11-23 - An interactive TLS-capable intercepting HTTP proxy for penetration testers and software developers.
-* [zaproxy](https://github.com/zaproxy/zaproxy) ⭐ 16,252 | 🐛 890 | 🌐 Java | 📅 2026-11-20 - ZAP is what is known as a “manipulator-in-the-middle proxy.” It stands between the tester’s browser and the web application so that it can intercept and inspect messages sent between browser and web application, modify the contents if needed, and then forward those packets on to the destination.
-* [hetty](https://github.com/dstotijn/hetty) ⭐ 12,554 | 🐛 52 | 🌐 Go | 📅 2026-07-21 - hetty is a free opensource alternative to Burpsuite pro
+* [mitmproxy](https://github.com/mitmproxy/mitmproxy) ⭐ 47,170 | 🐛 568 | 🌐 Python | 📅 2026-11-23 - An interactive TLS-capable intercepting HTTP proxy for penetration testers and software developers.
+* [zaproxy](https://github.com/zaproxy/zaproxy) ⭐ 16,265 | 🐛 892 | 🌐 Java | 📅 2026-11-24 - ZAP is what is known as a “manipulator-in-the-middle proxy.” It stands between the tester’s browser and the web application so that it can intercept and inspect messages sent between browser and web application, modify the contents if needed, and then forward those packets on to the destination.
+* [hetty](https://github.com/dstotijn/hetty) ⭐ 12,555 | 🐛 52 | 🌐 Go | 📅 2026-07-21 - hetty is a free opensource alternative to Burpsuite pro
 * [mitmproxy2swagger](https://github.com/alufers/mitmproxy2swagger) ⭐ 9,730 | 🐛 19 | 🌐 HTML | 📅 2026-11-23 - Automatically generate OpenAPI 3.0 specifications from mitmproxy captures or HAR files to reverse-engineer REST APIs.
-* [proxify](https://github.com/projectdiscovery/proxify) ⭐ 3,086 | 🐛 1 | 🌐 Go | 📅 2026-11-23 - A versatile and portable proxy for capturing, manipulating, and replaying HTTP/HTTPS traffic on the go.
-* [FoxyProxy Browser Extension](https://github.com/foxyproxy/browser-extension) ⭐ 556 | 🐛 16 | 🌐 JavaScript | 📅 2026-11-02 - FoxyProxy is an open-source, advanced proxy management tool that completely replaces Chrome's limited proxying capabilities.
+* [proxify](https://github.com/projectdiscovery/proxify) ⭐ 3,088 | 🐛 2 | 🌐 Go | 📅 2026-11-23 - A versatile and portable proxy for capturing, manipulating, and replaying HTTP/HTTPS traffic on the go.
+* [FoxyProxy Browser Extension](https://github.com/foxyproxy/browser-extension) ⭐ 559 | 🐛 16 | 🌐 JavaScript | 📅 2026-11-02 - FoxyProxy is an open-source, advanced proxy management tool that completely replaces Chrome's limited proxying capabilities.
 
 ### Origin IP
 
@@ -575,35 +575,35 @@
 
 ### Useful
 
-* [CyberChef](https://github.com/gchq/CyberChef) ⭐ 36,511 | 🐛 584 | 🌐 JavaScript | 📅 2026-11-20 - The Cyber Swiss Army Knife - a web app for encryption, encoding, compression and data analysis
-* [interactsh](https://github.com/projectdiscovery/interactsh) ⭐ 4,658 | 🐛 6 | 🌐 Go | 📅 2026-11-21 - Interactsh is an open-source tool for detecting out-of-band interactions. It is a tool designed to detect vulnerabilities that cause external interactions.
+* [CyberChef](https://github.com/gchq/CyberChef) ⭐ 36,522 | 🐛 587 | 🌐 JavaScript | 📅 2026-11-24 - The Cyber Swiss Army Knife - a web app for encryption, encoding, compression and data analysis
+* [interactsh](https://github.com/projectdiscovery/interactsh) ⭐ 4,659 | 🐛 6 | 🌐 Go | 📅 2026-11-21 - Interactsh is an open-source tool for detecting out-of-band interactions. It is a tool designed to detect vulnerabilities that cause external interactions.
 * [gf](https://github.com/tomnomnom/gf) ⭐ 2,139 | 🐛 54 | 🌐 Go | 📅 2024-06-08 -  A wrapper around grep, to help you grep for things
 * [anew](https://github.com/tomnomnom/anew) ⭐ 1,660 | 🐛 8 | 🌐 Go | 📅 2024-01-12 -  A tool for adding new lines to files, skipping duplicates
 * [notify](https://github.com/projectdiscovery/notify) ⭐ 1,625 | 🐛 5 | 🌐 Go | 📅 2026-11-22 - Notify is a Go-based assistance package that enables you to stream the output of several tools (or read from a file) and publish it to a variety of supported platforms.
-* [uro](https://github.com/s0md3v/uro) ⭐ 1,605 | 🐛 3 | 🌐 Python | 📅 2025-02-23 -  declutters url lists for crawling/pentesting
-* [unfurl](https://github.com/tomnomnom/unfurl) ⭐ 1,344 | 🐛 14 | 🌐 Go | 📅 2023-08-12 -  Pull out bits of URLs provided on stdin
-* [wakaru](https://github.com/pionxzh/wakaru) ⭐ 1,106 | 🐛 26 | 🌐 Rust | 📅 2026-11-23 - Decompiles production JavaScript bundles (webpack, esbuild, Metro, and more) into readable modules, so JS files are easier to review and search.
+* [uro](https://github.com/s0md3v/uro) ⭐ 1,606 | 🐛 3 | 🌐 Python | 📅 2025-02-23 -  declutters url lists for crawling/pentesting
+* [unfurl](https://github.com/tomnomnom/unfurl) ⭐ 1,345 | 🐛 14 | 🌐 Go | 📅 2023-08-12 -  Pull out bits of URLs provided on stdin
+* [wakaru](https://github.com/pionxzh/wakaru) ⭐ 1,106 | 🐛 26 | 🌐 Rust | 📅 2026-11-24 - Decompiles production JavaScript bundles (webpack, esbuild, Metro, and more) into readable modules, so JS files are easier to review and search.
 * [qsreplace](https://github.com/tomnomnom/qsreplace) ⭐ 884 | 🐛 16 | 🌐 Go | 📅 2022-11-23 -  Accept URLs on stdin, replace all query string values with a user-supplied value
 
 ### AI Agents
 
-* [shannon](https://github.com/KeygraphHQ/shannon) ⭐ 52,231 | 🐛 24 | 🌐 TypeScript | 📅 2026-11-20 - Fully autonomous AI hacker to find actual exploits in your web apps.
-* [PentestGPT](https://github.com/GreyDGL/PentestGPT) ⭐ 16,570 | 🐛 102 | 🌐 Python | 📅 2026-07-14 - AI-powered penetration testing assistant that helps automate security testing workflows and vulnerability discovery.
-* [Agentic Bug Bounty Hunter](https://github.com/Awarexone/Agentic-Bug-Hunter) ⭐ 6,046 | 🐛 18 | 🌐 Python | 📅 2026-11-12 - Claude Code plugin for autonomous bug bounty hunting across HackerOne, Bugcrowd, Intigriti and Immunefi — 15 skills, 33 commands and 9 agents covering recon-to-report, 21 web vuln classes, web3/meme-coin audits, LLM red-teaming, GraphQL/CORS/JWT/NoSQL scanners and persistent hunt memory. Works with or without a subscription.
-* [RedAmon](https://github.com/samugit83/redamon) ⭐ 3,480 | 🐛 18 | 🌐 Python | 📅 2026-11-19 - Open source (MIT) self-hosted AI pentest framework that maps the target's attack surface into a graph, exploits from a Kali sandbox with human approval gates, and opens pull requests that fix the findings.
-* [Pentest-Swarm](https://github.com/Armur-Ai/Pentest-Swarm-AI) ⭐ 3,293 | 🐛 19 | 🌐 Go | 📅 2026-11-23 - Open-source multi-agent AI pentester for web apps and APIs that confirms findings with out-of-band, differential-response and timing checks before reporting them.
-* [Darkmoon](https://github.com/ASCIT31/Dark-Moon) ⭐ 1,294 | 🐛 6 | 🌐 Python | 📅 2026-11-22 - Open source (GPL-3.0) autonomous AI penetration testing platform that orchestrates 80+ tools over MCP with dedicated per-technology offensive sub-agents (GraphQL, Spring Boot, ASP.NET, Node.js, Flask, PHP, Ruby) and a per-finding evidence trail.
+* [shannon](https://github.com/KeygraphHQ/shannon) ⭐ 52,260 | 🐛 25 | 🌐 TypeScript | 📅 2026-11-24 - Fully autonomous AI hacker to find actual exploits in your web apps.
+* [PentestGPT](https://github.com/GreyDGL/PentestGPT) ⭐ 16,597 | 🐛 102 | 🌐 Python | 📅 2026-07-14 - AI-powered penetration testing assistant that helps automate security testing workflows and vulnerability discovery.
+* [Agentic Bug Bounty Hunter](https://github.com/Awarexone/Agentic-Bug-Hunter) ⭐ 6,053 | 🐛 18 | 🌐 Python | 📅 2026-11-12 - Claude Code plugin for autonomous bug bounty hunting across HackerOne, Bugcrowd, Intigriti and Immunefi — 15 skills, 33 commands and 9 agents covering recon-to-report, 21 web vuln classes, web3/meme-coin audits, LLM red-teaming, GraphQL/CORS/JWT/NoSQL scanners and persistent hunt memory. Works with or without a subscription.
+* [RedAmon](https://github.com/samugit83/redamon) ⭐ 3,487 | 🐛 18 | 🌐 Python | 📅 2026-11-24 - Open source (MIT) self-hosted AI pentest framework that maps the target's attack surface into a graph, exploits from a Kali sandbox with human approval gates, and opens pull requests that fix the findings.
+* [Pentest-Swarm](https://github.com/Armur-Ai/Pentest-Swarm-AI) ⭐ 3,297 | 🐛 19 | 🌐 Go | 📅 2026-11-23 - Open-source multi-agent AI pentester for web apps and APIs that confirms findings with out-of-band, differential-response and timing checks before reporting them.
+* [Darkmoon](https://github.com/ASCIT31/Dark-Moon) ⭐ 1,302 | 🐛 6 | 🌐 Python | 📅 2026-11-22 - Open source (GPL-3.0) autonomous AI penetration testing platform that orchestrates 80+ tools over MCP with dedicated per-technology offensive sub-agents (GraphQL, Spring Boot, ASP.NET, Node.js, Flask, PHP, Ruby) and a per-finding evidence trail.
 
 ***
 
 ## Uncategorized
 
-* [PayloadsAllTheThings](https://github.com/swisskyrepo/PayloadsAllTheThings) ⭐ 82,884 | 🐛 39 | 🌐 Python | 📅 2026-10-30 - A list of useful payloads and bypass for Web Application Security and Pentest/CTF
-* [SecLists](https://github.com/danielmiessler/SecLists) ⭐ 74,910 | 🐛 11 | 🌐 PHP | 📅 2026-11-23 - It's a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more.
-* [android-security-awesome](https://github.com/ashishb/android-security-awesome) ⭐ 9,854 | 🐛 2 | 🌐 Makefile | 📅 2026-11-23 - A collection of android security related resources
-* [bounty-targets-data](https://github.com/arkadiyt/bounty-targets-data) ⭐ 4,012 | 🐛 0 | 📅 2026-11-23 - This repo contains hourly-updated data dumps of bug bounty platform scopes (like Hackerone/Bugcrowd/Intigriti/etc) that are eligible for reports
-* [awesome-mobile-security](https://github.com/vaib25vicky/awesome-mobile-security) ⭐ 3,583 | 🐛 17 | 📅 2024-03-01 - An effort to build a single place for all useful android and iOS security related stuff.
-* [cvemap](https://github.com/projectdiscovery/cvemap) ⭐ 2,755 | 🐛 0 | 🌐 Go | 📅 2026-11-23 - Modern CLI for exploring vulnerability data with powerful search, filtering, and analysis capabilities.
+* [PayloadsAllTheThings](https://github.com/swisskyrepo/PayloadsAllTheThings) ⭐ 82,911 | 🐛 41 | 🌐 Python | 📅 2026-10-30 - A list of useful payloads and bypass for Web Application Security and Pentest/CTF
+* [SecLists](https://github.com/danielmiessler/SecLists) ⭐ 74,934 | 🐛 11 | 🌐 PHP | 📅 2026-11-24 - It's a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more.
+* [android-security-awesome](https://github.com/ashishb/android-security-awesome) ⭐ 9,856 | 🐛 3 | 🌐 Makefile | 📅 2026-11-23 - A collection of android security related resources
+* [bounty-targets-data](https://github.com/arkadiyt/bounty-targets-data) ⭐ 4,013 | 🐛 0 | 📅 2026-11-24 - This repo contains hourly-updated data dumps of bug bounty platform scopes (like Hackerone/Bugcrowd/Intigriti/etc) that are eligible for reports
+* [awesome-mobile-security](https://github.com/vaib25vicky/awesome-mobile-security) ⭐ 3,583 | 🐛 19 | 📅 2024-03-01 - An effort to build a single place for all useful android and iOS security related stuff.
+* [cvemap](https://github.com/projectdiscovery/cvemap) ⭐ 2,759 | 🐛 0 | 🌐 Go | 📅 2026-11-23 - Modern CLI for exploring vulnerability data with powerful search, filtering, and analysis capabilities.
 * [ds\_store\_exp](https://github.com/lijiejie/ds_store_exp) ⭐ 1,738 | 🐛 16 | 🌐 Python | 📅 2023-05-06 - A .DS\_Store file disclosure exploit. It parses .DS\_Store file and downloads files recursively.
 * [BigBountyRecon](https://github.com/Viralmaniar/BigBountyRecon) ⭐ 1,577 | 🐛 9 | 🌐 C# | 📅 2021-01-29 - BigBountyRecon tool utilises 58 different techniques using various Google dorks and open source tools to expedite the process of initial reconnaissance on the target organisation.
 * [awesome-vulnerable-apps](https://github.com/vavkamil/awesome-vulnerable-apps) ⭐ 1,510 | 🐛 2 | 📅 2026-10-14 - Awesome Vulnerable Applications
@@ -611,7 +611,7 @@
 * [asnmap](https://github.com/projectdiscovery/asnmap) ⭐ 1,157 | 🐛 1 | 🌐 Go | 📅 2026-11-21 - Go CLI and Library for quickly mapping organization network ranges using ASN information.
 * [Bypass bot detection](https://github.com/portswigger/bypass-bot-detection) ⭐ 505 | 🐛 2 | 🌐 Java | 📅 2025-09-09 - Burp Suite extension that mutates ciphers to bypass TLS-fingerprint based bot detection.
 * [bountyplz](https://github.com/fransr/bountyplz) ⭐ 459 | 🐛 5 | 🌐 Shell | 📅 2019-05-10 - Automated security reporting from markdown templates (HackerOne and Bugcrowd are currently the platforms supported)
-* [RF Swift](https://github.com/PentHertz/RF-Swift) ⭐ 407 | 🐛 1 | 🌐 Go | 📅 2026-11-22 - A powerful multi-platform RF toolbox that deploys specialized radio tools in seconds on Linux, Windows, and macOS—supporting x86\_64, ARM64 (Raspberry Pi, Apple Silicon), and RISC-V architectures without disrupting your primary OS.
+* [RF Swift](https://github.com/PentHertz/RF-Swift) ⭐ 408 | 🐛 2 | 🌐 Go | 📅 2026-11-24 - A powerful multi-platform RF toolbox that deploys specialized radio tools in seconds on Linux, Windows, and macOS—supporting x86\_64, ARM64 (Raspberry Pi, Apple Silicon), and RISC-V architectures without disrupting your primary OS.
 * [cut-cdn](https://github.com/ImAyrix/cut-cdn) ⭐ 358 | 🐛 3 | 🌐 Go | 📅 2026-08-16 - Removing CDN IPs from the list of IP addresses.
 * [ARS3NAL](https://github.com/inflictx/Arsenal) ⭐ 194 | 🐛 4 | 🌐 CSS | 📅 2026-07-09 - Offline-first, searchable arsenal for pentest & bug bounty: \~1500 payloads, a click-to-build command generator, GTFOBins, wordlists, an embedded CyberChef, reverse shells and 70 checklists. Self-hosted web app with a live static demo.
 
@@ -632,4 +632,4 @@ related or neighboring rights to this work.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-23._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-24._
